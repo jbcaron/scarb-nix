@@ -1,0 +1,1750 @@
+{
+  "2.4.3": {
+    "hashes": {
+      "aarch64-apple-darwin": "2e39cf4dab1c993c41f9267f004a2b7726cf14267a4f2454618a3689051d5fb9",
+      "aarch64-unknown-linux-gnu": "d6f026a06d9014a4dbbaac0385f2565f99bd649a97de2e9cd13c7371725189b9",
+      "aarch64-unknown-linux-musl": "3959160d5015361cc3ce5376626dfb3a4b09942595d2861b84c1b245a1fada25",
+      "x86_64-apple-darwin": "11f888460e5ac78acdf35f199ecdb5c45f72e5296c0eaf0eaa044fc8a283e952",
+      "x86_64-pc-windows-msvc": "a1aae2537873715a6febc6a9fb58ce4833db60590f10c15e74cead7fe42f72fe",
+      "x86_64-unknown-linux-gnu": "bae801283f7fa3822079f86fbccc882f557e316305ee0ea01c8867796db52d3c",
+      "x86_64-unknown-linux-musl": "0c80edd932b21308fd024a2474f2db4647c25124557737fa0facfd902fd39f53"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-01-04T13:58:57Z",
+          "download_count": 11,
+          "size": 767,
+          "updated_at": "2024-01-04T13:58:58Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/checksums.sha256"
+        },
+        "scarb-v2.4.3-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-04T13:58:57Z",
+          "download_count": 380,
+          "size": 26870865,
+          "updated_at": "2024-01-04T13:58:59Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.4.3-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-04T13:58:57Z",
+          "download_count": 40,
+          "size": 31063614,
+          "updated_at": "2024-01-04T13:58:59Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.4.3-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-04T13:58:57Z",
+          "download_count": 302,
+          "size": 30736856,
+          "updated_at": "2024-01-04T13:58:59Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.4.3-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-04T13:58:57Z",
+          "download_count": 51,
+          "size": 28743251,
+          "updated_at": "2024-01-04T13:58:59Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.4.3-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-01-04T13:58:58Z",
+          "download_count": 58,
+          "size": 27134671,
+          "updated_at": "2024-01-04T13:58:59Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.4.3-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-04T13:58:59Z",
+          "download_count": 3272,
+          "size": 31388160,
+          "updated_at": "2024-01-04T13:59:00Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.4.3-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-04T13:58:59Z",
+          "download_count": 5133,
+          "size": 32169397,
+          "updated_at": "2024-01-04T13:59:00Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.3/scarb-v2.4.3-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.4.3)\n\nWelcome to the release notes for Scarb v2.4.3!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.4.3`](https://github.com/starkware-libs/cairo/releases/tag/v2.4.3).\n\n## What's Changed\n* Prepare release `2.4.3` @maciektr\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.4.2...v2.4.3",
+      "downloadCount": 9247,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-01-04T14:03:44Z"
+    }
+  },
+  "2.4.4": {
+    "hashes": {
+      "aarch64-apple-darwin": "77fd1afaa5b19b74d988883be06b90ef9a5bd2bbbb9e965395fedfcea3174f29",
+      "aarch64-unknown-linux-gnu": "a37146ed496b6fe8fc30288f5352e190e889d34484e62946518576090b9c3dfe",
+      "aarch64-unknown-linux-musl": "3cd1f6b16d7954e836459eaf7b4520c335f84290d5e433522278365861fec3ff",
+      "x86_64-apple-darwin": "c1348bdc12b6b59df44f5ebc47d0e13b35ce341929e646beedcc5b6aafabde88",
+      "x86_64-pc-windows-msvc": "a34adeee93892e870ea79500f532371c00f45f5a6269254f318a968eb0c46b89",
+      "x86_64-unknown-linux-gnu": "af3d47862bace690b25ab6315798b1641e5c1121ec882535e138e048a4937192",
+      "x86_64-unknown-linux-musl": "36f499273e15a2b8e6c65c81605372d8caef01ed47e82040de891c855416b7c8"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-01-17T21:08:33Z",
+          "download_count": 3,
+          "size": 767,
+          "updated_at": "2024-01-17T21:08:34Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/checksums.sha256"
+        },
+        "scarb-v2.4.4-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-17T21:08:33Z",
+          "download_count": 226,
+          "size": 26895650,
+          "updated_at": "2024-01-17T21:08:38Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.4.4-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-17T21:08:33Z",
+          "download_count": 36,
+          "size": 31026247,
+          "updated_at": "2024-01-17T21:08:39Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.4.4-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-17T21:08:33Z",
+          "download_count": 196,
+          "size": 30820702,
+          "updated_at": "2024-01-17T21:08:38Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.4.4-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-17T21:08:33Z",
+          "download_count": 38,
+          "size": 28747860,
+          "updated_at": "2024-01-17T21:08:38Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.4.4-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-01-17T21:08:34Z",
+          "download_count": 23,
+          "size": 27111686,
+          "updated_at": "2024-01-17T21:08:36Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.4.4-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-17T21:08:36Z",
+          "download_count": 1493,
+          "size": 31378753,
+          "updated_at": "2024-01-17T21:08:38Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.4.4-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-17T21:08:38Z",
+          "download_count": 3580,
+          "size": 32143772,
+          "updated_at": "2024-01-17T21:08:39Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.4.4/scarb-v2.4.4-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.4.4)\n\nWelcome to the release notes for Scarb v2.4.4!\nThis quick release comes with a Cairo upgrade and couple fixes.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.4.4`](https://github.com/starkware-libs/cairo/releases/tag/v2.4.4).\n\n## What's Changed\n* Bump semver from 1.0.20 to 1.0.21 by @dependabot in https://github.com/software-mansion/scarb/pull/1039\n* Bump the non-critical group with 9 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1038\n* Use dev-deps during compilation in `snforge-test-collector` by @piotmag769 in https://github.com/software-mansion/scarb/pull/1033\n* Regenerate Cargo.lock, upgrading all dependencies alongside by @mkaput in https://github.com/software-mansion/scarb/pull/1042\n* `availabe_gas` support in snfoundry-test-collector by @war-in in https://github.com/software-mansion/scarb/pull/1045\n* Add ignored test case for dev-deps propagation by @maciektr in https://github.com/software-mansion/scarb/pull/1030\n* Expand help message preface by @mkaput in https://github.com/software-mansion/scarb/pull/1047\n* Bump the non-critical group with 3 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1051\n* Do not propagate dev deps by @maciektr in https://github.com/software-mansion/scarb/pull/1050\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1053\n* Add support for compiler experimental features in `snforge-test-collector` by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1012\n* Remove @mkaput from CODEOWNERS by @mkaput in https://github.com/software-mansion/scarb/pull/1056\n* Rename `experimental_features` -> `allow_features` by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1058\n* Fix `snforge-test-collector`'s default `available_gas` value by @Arcticae in https://github.com/software-mansion/scarb/pull/1057\n* Revert \"Rename `experimental_features` -> `allow_features` (#1058)\" by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1061\n\n## New Contributors\n* @war-in made their first contribution in https://github.com/software-mansion/scarb/pull/1045\n* @Arcticae made their first contribution in https://github.com/software-mansion/scarb/pull/1057\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.4.3...v2.4.4",
+      "downloadCount": 5595,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-01-18T09:14:01Z"
+    }
+  },
+  "2.5.0": {
+    "hashes": {
+      "aarch64-apple-darwin": "ad26c0366d9c6b52fa0fe5eed8a01d16d0c15b4a6f98006c01d16962ca56c367",
+      "aarch64-unknown-linux-gnu": "ffa9bbbcb013e922a6ca778c72de54b9e289af227ea150ecb328899d3bf071c5",
+      "aarch64-unknown-linux-musl": "b1860e137d4a52d2cc6d90bd0abe6c36cf4a7a10306d280369ca9c8dc79d11a8",
+      "x86_64-apple-darwin": "91b6b4831db78ab5d1d08627bacd44a0dc5c76958ffab1ba7f44a989b27003cc",
+      "x86_64-pc-windows-msvc": "77bfa380ccedf0502c7356896f73609cd208bae84e749adda5dce12be1b79913",
+      "x86_64-unknown-linux-gnu": "9c6ad29bf518d0d929b13c55d08348dc3000187f5b6e248791f32733a225273f",
+      "x86_64-unknown-linux-musl": "36e214c65d896a7907186a259c55aaf071d8bfaa781e1364007ec9a94b994913"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-01-22T15:48:49Z",
+          "download_count": 6,
+          "size": 767,
+          "updated_at": "2024-01-22T15:48:50Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/checksums.sha256"
+        },
+        "scarb-v2.5.0-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-22T15:48:50Z",
+          "download_count": 215,
+          "size": 28464032,
+          "updated_at": "2024-01-22T15:48:51Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.0-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-22T15:48:50Z",
+          "download_count": 40,
+          "size": 32703607,
+          "updated_at": "2024-01-22T15:48:52Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.0-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-22T15:48:50Z",
+          "download_count": 203,
+          "size": 32360832,
+          "updated_at": "2024-01-22T15:48:52Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.5.0-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-22T15:48:50Z",
+          "download_count": 43,
+          "size": 30434198,
+          "updated_at": "2024-01-22T15:48:52Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.0-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-01-22T15:48:50Z",
+          "download_count": 42,
+          "size": 28698564,
+          "updated_at": "2024-01-22T15:48:51Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.5.0-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-22T15:48:51Z",
+          "download_count": 4498,
+          "size": 33016180,
+          "updated_at": "2024-01-22T15:48:53Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.0-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-22T15:48:52Z",
+          "download_count": 3577,
+          "size": 33825307,
+          "updated_at": "2024-01-22T15:48:53Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.0/scarb-v2.5.0-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.5.0)\n\nWelcome to the release notes for Scarb v2.5.0!\n\nThis is a significant Cairo language update with just a sprinkle of small improvements and fixes in Scarb itself \u2728 But don't worry! We're just cooking big stuff behind the scenes \ud83e\uddd1\u200d\ud83c\udf73\n\n## `scarb cairo-run` arguments\n\nThe `scarb cairo-run` extension can now handle program arguments. Now, the `main` function in your Cairo programs may have parameters. The arguments can be passed to the `scarb cairo-run` command as a single JSON array of numbers, decimal bigints or recursive arrays of those. Nested arrays can translate to either Cairo arrays, tuples or plain structures. Consult the following table for example valid arguments and their matching function signatures:\n\n| Argument              | Function signature                      |\n| --------------------- | --------------------------------------- |\n| `[1]`                 | `fn main(a: u64)`                       |\n| `[1, \"2\"]`            | `fn main(a: u64, b: u64)`               |\n| `[[1, 2], [3, 4, 5]]` | `fn main(t: (u64, u64), v: Array<u64>)` |\n\nBig thank you to @neotheprogramist for implementing this feature! \ud83c\udf89\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.5.0`](https://github.com/starkware-libs/cairo/releases/tag/v2.5.0).\n\n## What's Changed\n* Add support for passing arguments to `main` by @neotheprogramist in https://github.com/software-mansion/scarb/pull/1055\n* Reverse search order in `find_external_subcommand` by @mkaput in https://github.com/software-mansion/scarb/pull/1067\n* exec_replace: log the command to be executed by @mkaput in https://github.com/software-mansion/scarb/pull/1064\n* scarb-ui: Add methods for accessing stderr color preferences by @mkaput in https://github.com/software-mansion/scarb/pull/1065\n* Synchronize `tracing` color preference with `scarb-ui` stderr one by @mkaput in https://github.com/software-mansion/scarb/pull/1068\n* Bump vite from 5.0.5 to 5.0.12 in /website by @dependabot in https://github.com/software-mansion/scarb/pull/1069\n* Bump h2 from 0.3.22 to 0.3.24 by @dependabot in https://github.com/software-mansion/scarb/pull/1070\n* Bump deno_task_shell from 0.14.2 to 0.14.3 by @dependabot in https://github.com/software-mansion/scarb/pull/1072\n* Bump gix from 0.57.1 to 0.58.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1073\n* Bump the non-critical group with 8 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1071\n* Prepare `scarb-ui` release `0.1.3` by @mkaput in https://github.com/software-mansion/scarb/pull/1078\n* Prepare release `2.5.0` by @mkaput in https://github.com/software-mansion/scarb/pull/1077\n\n## New Contributors\n* @neotheprogramist made their first contribution in https://github.com/software-mansion/scarb/pull/1055\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.4.4...v2.5.0",
+      "downloadCount": 8624,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-01-22T20:11:12Z"
+    }
+  },
+  "2.5.1": {
+    "hashes": {
+      "aarch64-apple-darwin": "a107c114b806729e0d69727ae94e93d802b9cddfaffdd9a24d7018ee07af9644",
+      "aarch64-unknown-linux-gnu": "b3d32488554bc75dd1ff49c4bf90675950e6fc00659c21a81492d663854bfcef",
+      "aarch64-unknown-linux-musl": "d633d11fbc6396c2543733ac657b0a63450b73ea91f8f2081cd774414bf19706",
+      "x86_64-apple-darwin": "9df927dff8000e0280907f9c909f8b37e12f97fa408681eab8812c56ffc2e0f7",
+      "x86_64-pc-windows-msvc": "5dbace69995ee6151346261a2d278f507b62bca5ee456d23642b5ac3a85fbae7",
+      "x86_64-unknown-linux-gnu": "40d976e6c787c10b3683c3f6aefa41054e5b24b356853b28a77d3d53944867f6",
+      "x86_64-unknown-linux-musl": "6f683cb1e45f0671f096c210288cbbe70573fb33402b210a9c52cefe7a81eca7"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-01-29T13:07:40Z",
+          "download_count": 4,
+          "size": 767,
+          "updated_at": "2024-01-29T13:07:40Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/checksums.sha256"
+        },
+        "scarb-v2.5.1-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-29T13:07:40Z",
+          "download_count": 107,
+          "size": 28652988,
+          "updated_at": "2024-01-29T13:07:43Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.1-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-29T13:07:40Z",
+          "download_count": 24,
+          "size": 32858382,
+          "updated_at": "2024-01-29T13:07:43Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.1-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-29T13:07:40Z",
+          "download_count": 264,
+          "size": 32451855,
+          "updated_at": "2024-01-29T13:07:44Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.5.1-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-29T13:07:40Z",
+          "download_count": 19,
+          "size": 30631696,
+          "updated_at": "2024-01-29T13:07:43Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.1-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-01-29T13:07:41Z",
+          "download_count": 22,
+          "size": 28860788,
+          "updated_at": "2024-01-29T13:07:42Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.5.1-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-29T13:07:43Z",
+          "download_count": 519,
+          "size": 33158391,
+          "updated_at": "2024-01-29T13:07:44Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.1-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-29T13:07:43Z",
+          "download_count": 2941,
+          "size": 33975465,
+          "updated_at": "2024-01-29T13:07:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.1/scarb-v2.5.1-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.5.1)\n\nWelcome to the release notes for Scarb `v2.5.1`!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.5.1`](https://github.com/starkware-libs/cairo/releases/tag/v2.5.1).\n\n\n## What's Changed\n* Update website to Vitepress `1.0.0-rc.40` etc. by @mkaput in https://github.com/software-mansion/scarb/pull/1079\n* Rename 'program input' to 'arguments' and document this feature by @mkaput in https://github.com/software-mansion/scarb/pull/1080\n* Add `module_path` to `ContractArtifacts` by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1082\n* Update `Starknet Artifacts` docs, fix invalid links by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1087\n* `snforge-test-collector`: nightly fix & `cairo-lang-*` bump by @Arcticae in https://github.com/software-mansion/scarb/pull/1086\n* Prepare release `2.5.1` by @maciektr in https://github.com/software-mansion/scarb/pull/1094\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.5.0...v2.5.1",
+      "downloadCount": 3900,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-01-29T13:30:18Z"
+    }
+  },
+  "2.5.2": {
+    "hashes": {
+      "aarch64-apple-darwin": "4fe4187778310f25357f74ae9a2370f8c8e421854bcc207680761caa2592739b",
+      "aarch64-unknown-linux-gnu": "a68bffad48984376cc0699432acacbf36e00a18c392a77a13a957a8b03fdaa7d",
+      "aarch64-unknown-linux-musl": "3fd4a9c4f424ec8be47c1caabd230339bc0ac686331b77d7376714fc4076d9fe",
+      "x86_64-apple-darwin": "7d7f52052e066f9899298ad90ccf8a239af2fb35e60939fce0f7e79749205b1d",
+      "x86_64-pc-windows-msvc": "88fbed697f0f2d2c0518351a23ccb144d402d19c3291dd1ecc2112f82da26990",
+      "x86_64-unknown-linux-gnu": "07cbb4ce169db81183bcc5aa3a26f303f0140a659093b5c652afdd0435205414",
+      "x86_64-unknown-linux-musl": "14ac3cb5d220a1a59b9fcd0aa81be1e09749fa6484f4761d38ebcaf861ffaf40"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-01-31T14:34:43Z",
+          "download_count": 5,
+          "size": 767,
+          "updated_at": "2024-01-31T14:34:43Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/checksums.sha256"
+        },
+        "scarb-v2.5.2-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-31T14:34:43Z",
+          "download_count": 46,
+          "size": 26867741,
+          "updated_at": "2024-01-31T14:34:55Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.2-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-31T14:34:43Z",
+          "download_count": 13,
+          "size": 32849747,
+          "updated_at": "2024-01-31T14:34:55Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.2-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-31T14:34:43Z",
+          "download_count": 263,
+          "size": 32482095,
+          "updated_at": "2024-01-31T14:34:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.5.2-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-01-31T14:34:43Z",
+          "download_count": 16,
+          "size": 30483346,
+          "updated_at": "2024-01-31T14:34:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.2-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-01-31T14:34:47Z",
+          "download_count": 12,
+          "size": 28827648,
+          "updated_at": "2024-01-31T14:34:50Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.5.2-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-01-31T14:34:52Z",
+          "download_count": 242,
+          "size": 33094128,
+          "updated_at": "2024-01-31T14:34:54Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.2-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-01-31T14:34:54Z",
+          "download_count": 2938,
+          "size": 33889113,
+          "updated_at": "2024-01-31T14:34:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.2/scarb-v2.5.2-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.5.2)\n\nWelcome to the release notes for Scarb `v2.5.2`!\n\nThis release brings the `scarb check` command for the first time!\n\n## Scarb Check\nIf you want to check your code for any build errors, but do not really need any build artifacts, you can now use the new `check` command instead of standard `build`! This will give you a perfomance advantage, as Scarb no longer needs to spend time creating and emitting all the output files. Try this in your CI!\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.5.2`](https://github.com/starkware-libs/cairo/releases/tag/v2.5.2).\n\n## What's Changed\n* Bump deno_task_shell from 0.14.3 to 0.14.4 by @dependabot in https://github.com/software-mansion/scarb/pull/1096\n* Bump the non-critical group with 3 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1095\n* Add `scarb check` by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1046\n* `scarb check` docs by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1099\n* CI: Use M1 runners wherever possible by @mkaput in https://github.com/software-mansion/scarb/pull/1101\n* Support for human readable message in `MetadataCommand` by @Draggu in https://github.com/software-mansion/scarb/pull/1098\n* Prepare scarb-metadata release `1.11.0` by @maciektr in https://github.com/software-mansion/scarb/pull/1103\n* Prepare release `2.5.2` by @maciektr in https://github.com/software-mansion/scarb/pull/1104\n\n## New Contributors\n* @Draggu made their first contribution in https://github.com/software-mansion/scarb/pull/1098\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.5.1...v2.5.2",
+      "downloadCount": 3535,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-01-31T15:05:00Z"
+    }
+  },
+  "2.5.3": {
+    "hashes": {
+      "aarch64-apple-darwin": "54162ea3ed717d76cec73daa03d6cc7dab5c94a4b6e6c9924587bc294f47d4a4",
+      "aarch64-unknown-linux-gnu": "583481fab6a4af9b528ffbf725670958c6f029a7acf6387117a8c8c2827611bd",
+      "aarch64-unknown-linux-musl": "da87ccd46ce54c80e02a73d5bbc187948df71751b4f45922c3b453ef5d0c921e",
+      "x86_64-apple-darwin": "aa72dea3b69606468968a0a04757864dc7cce94367f772705018328a76e7cd61",
+      "x86_64-pc-windows-msvc": "63891ea43ab204ab19a046374b8bd61abe43894ce2b1cae72913db15ba8ee94b",
+      "x86_64-unknown-linux-gnu": "914f881e52618e4f55e08624a90232fe3b0cc2f703c28262c9b71cc673b570ad",
+      "x86_64-unknown-linux-musl": "6b1b19c69684ef50933f94f8d4bb88e1f527c0a2de145507ef5d2575f6ad9437"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-02-01T13:13:05Z",
+          "download_count": 7,
+          "size": 767,
+          "updated_at": "2024-02-01T13:13:06Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/checksums.sha256"
+        },
+        "scarb-v2.5.3-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-02-01T13:13:06Z",
+          "download_count": 582,
+          "size": 26935821,
+          "updated_at": "2024-02-01T13:13:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.3-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-02-01T13:13:05Z",
+          "download_count": 39,
+          "size": 32898529,
+          "updated_at": "2024-02-01T13:13:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.3-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-02-01T13:13:06Z",
+          "download_count": 264,
+          "size": 32485574,
+          "updated_at": "2024-02-01T13:13:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.5.3-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-02-01T13:13:05Z",
+          "download_count": 77,
+          "size": 30532670,
+          "updated_at": "2024-02-01T13:13:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.3-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-02-01T13:13:06Z",
+          "download_count": 92,
+          "size": 28781355,
+          "updated_at": "2024-02-01T13:13:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.5.3-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-02-01T13:13:07Z",
+          "download_count": 3798,
+          "size": 33040969,
+          "updated_at": "2024-02-01T13:13:08Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.3-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-02-01T13:13:07Z",
+          "download_count": 2952,
+          "size": 33893537,
+          "updated_at": "2024-02-01T13:13:08Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.3/scarb-v2.5.3-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.5.3)\n\nWelcome to the release notes for Scarb `v2.5.3`!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.5.3`](https://github.com/starkware-libs/cairo/releases/tag/v2.5.3).\n\n\n## What's Changed\n* Fix ignored test by @maciektr in https://github.com/software-mansion/scarb/pull/1106\n* Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1107\n* Add profile arguments to MetadataCommand by @maciektr in https://github.com/software-mansion/scarb/pull/1105\n* Prepare release `2.5.3` by @maciektr in https://github.com/software-mansion/scarb/pull/1108\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.5.2...v2.5.3",
+      "downloadCount": 7811,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-02-01T13:18:34Z"
+    }
+  },
+  "2.5.4": {
+    "hashes": {
+      "aarch64-apple-darwin": "4d6d84f6137bb71e0436d4e286b1872025d8f1d789be590f581e9ad5cc2cc279",
+      "aarch64-unknown-linux-gnu": "0485a7750a0f575ff372a125e60af2bdcd68c9688485615e2d8ba18c4f10a70b",
+      "aarch64-unknown-linux-musl": "afae26e3213f9da9db7a02b45f4f158a843dab2b5e61ddf92e4a4e60514419de",
+      "x86_64-apple-darwin": "e1441edaf925a77ef8aeb5091930d2232487b1238ac6b781932dbb431c5d7398",
+      "x86_64-pc-windows-msvc": "5363d4ef8be3aa40739eacd2b0add14be3d08395323d0c6f8313c5d1b7b58c8b",
+      "x86_64-unknown-linux-gnu": "a7e6645ef9028eaee2a4d4ddceb820ab31995c94d5d4f4ed682b8c691ebc7ff1",
+      "x86_64-unknown-linux-musl": "6162a36343c5a5c64047713cd4bbf7f55438bc15ca1397355560bdaf08255612"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-02-14T17:40:55Z",
+          "download_count": 5,
+          "size": 767,
+          "updated_at": "2024-02-14T17:40:55Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/checksums.sha256"
+        },
+        "scarb-v2.5.4-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-02-14T17:40:55Z",
+          "download_count": 1335,
+          "size": 26753273,
+          "updated_at": "2024-02-14T17:40:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.4-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-02-14T17:40:55Z",
+          "download_count": 146,
+          "size": 32211528,
+          "updated_at": "2024-02-14T17:40:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.4-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-02-14T17:40:55Z",
+          "download_count": 163,
+          "size": 31859721,
+          "updated_at": "2024-02-14T17:40:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.5.4-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-02-14T17:40:55Z",
+          "download_count": 283,
+          "size": 28969067,
+          "updated_at": "2024-02-14T17:40:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.5.4-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-02-14T17:40:55Z",
+          "download_count": 120,
+          "size": 28709136,
+          "updated_at": "2024-02-14T17:40:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.5.4-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-02-14T17:40:56Z",
+          "download_count": 22703,
+          "size": 32763279,
+          "updated_at": "2024-02-14T17:40:58Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.5.4-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-02-14T17:40:57Z",
+          "download_count": 4426,
+          "size": 33590061,
+          "updated_at": "2024-02-14T17:40:58Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.5.4/scarb-v2.5.4-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.5.4)\n\nWelcome to the release notes for Scarb v2.5.4!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.5.4`](https://github.com/starkware-libs/cairo/releases/tag/v2.5.4).\n\n## What's Changed\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1114\n* Update cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1115\n* Allow compilation of packages with `no-core` flag enabled. by @maciektr in https://github.com/software-mansion/scarb/pull/1112\n* Add builtin prop on cairo plugin target definition by @maciektr in https://github.com/software-mansion/scarb/pull/1059\n* Fix experimental_features deserialization backward compatibility by @maciektr in https://github.com/software-mansion/scarb/pull/1118\n* Check backward compatibility of metadata command deserialization by @maciektr in https://github.com/software-mansion/scarb/pull/1119\n* Prepare scarb-metadata release `1.11.1` by @maciektr in https://github.com/software-mansion/scarb/pull/1120\n* Do not compile tests from dependencies in `scarb test` by @szymmis in https://github.com/software-mansion/scarb/pull/1084\n* Set crate-level cfg_set in snforge-test-collector by @maciektr in https://github.com/software-mansion/scarb/pull/1125\n* Fix `edition` for main crates in test compilation in test collector by @piotmag769 in https://github.com/software-mansion/scarb/pull/1135\n* Bump the non-critical group with 5 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1141\n* Exclude cairo-felt from dependabot patterns by @maciektr in https://github.com/software-mansion/scarb/pull/1142\n* Create procedural macro interface library by @maciektr in https://github.com/software-mansion/scarb/pull/1139\n* Update cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1144\n* [`snforge-test-collector`] Add `TestDetails` to `TestCaseRaw` by @drknzz in https://github.com/software-mansion/scarb/pull/1121\n\n## New Contributors\n* @drknzz made their first contribution in https://github.com/software-mansion/scarb/pull/1121\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.5.3...v2.5.4",
+      "downloadCount": 29181,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-02-14T18:09:10Z"
+    }
+  },
+  "2.6.0": {
+    "hashes": {
+      "aarch64-apple-darwin": "db0f6e90a2305a1345090e261d56dabfbc27fdf32c87a8de740458fc7e51513b",
+      "aarch64-unknown-linux-gnu": "c2b5abc239e98d5ad101175de1f538a34705f8887f54d61f619e259268ec3841",
+      "aarch64-unknown-linux-musl": "e1a3ebaa8d0eb44165876d379d14aff52cf85c6ef410689410ff0a9e7a826f3a",
+      "x86_64-apple-darwin": "ef7b14a4e33ff6143d6454b8e5249e1514a5c55f8e5db39c1ab90f62531872a2",
+      "x86_64-pc-windows-msvc": "4bd018a622d87cd81f46d532ec0778f2bcadb2c712eb3e56ec59c47deb50932a",
+      "x86_64-unknown-linux-gnu": "20c77ec6c2e15d944ddd4a3ce9b74b2482d25a82e0ed1168ddf6bb564f9aed3c",
+      "x86_64-unknown-linux-musl": "18bbb0dbcf166d93835d5fe14368899b73c06e91c71d7d5ab371c84c766b3fdd"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-03-04T19:14:14Z",
+          "download_count": 5,
+          "size": 767,
+          "updated_at": "2024-03-04T19:14:15Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/checksums.sha256"
+        },
+        "scarb-v2.6.0-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-04T19:14:15Z",
+          "download_count": 579,
+          "size": 28009141,
+          "updated_at": "2024-03-04T19:14:16Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.0-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-04T19:14:14Z",
+          "download_count": 16,
+          "size": 33624847,
+          "updated_at": "2024-03-04T19:14:16Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.0-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-04T19:14:14Z",
+          "download_count": 163,
+          "size": 33214035,
+          "updated_at": "2024-03-04T19:14:16Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.6.0-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-04T19:14:14Z",
+          "download_count": 72,
+          "size": 30351475,
+          "updated_at": "2024-03-04T19:14:16Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.0-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-03-04T19:14:15Z",
+          "download_count": 15,
+          "size": 30056474,
+          "updated_at": "2024-03-04T19:14:16Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.6.0-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-04T19:14:16Z",
+          "download_count": 2366,
+          "size": 34237843,
+          "updated_at": "2024-03-04T19:14:17Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.0-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-04T19:14:16Z",
+          "download_count": 2195,
+          "size": 35060631,
+          "updated_at": "2024-03-04T19:14:17Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.0/scarb-v2.6.0-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.6.0)\n\nWelcome to the release notes for Scarb v2.6.0!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.6.0`](https://github.com/starkware-libs/cairo/releases/tag/v2.6.0).\n\n## What's Changed\n* Rename macro interface crates to cairo-lang namespace by @maciektr in https://github.com/software-mansion/scarb/pull/1145\n* Add `scarb cairo-run` tests by @tomek0123456789 in https://github.com/software-mansion/scarb/pull/1113\n* Rename cairo-lang-macro-interface to cairo-lang-macro by @maciektr in https://github.com/software-mansion/scarb/pull/1149\n* Add `ProcMacroHost` definition by @maciektr in https://github.com/software-mansion/scarb/pull/1060\n* Bump semver from 1.0.21 to 1.0.22 by @dependabot in https://github.com/software-mansion/scarb/pull/1154\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1153\n* Implement procedural macro host `generate_code` for attribute macro by @maciektr in https://github.com/software-mansion/scarb/pull/1091\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1160\n* Implement loading shared libraries for proc macro plugins by @maciektr in https://github.com/software-mansion/scarb/pull/1093\n* Procedural macro compilation by @maciektr in https://github.com/software-mansion/scarb/pull/1110\n* Add test case for procedural macro compilation by @maciektr in https://github.com/software-mansion/scarb/pull/1100\n* Implement check command for cairo plugins by @maciektr in https://github.com/software-mansion/scarb/pull/1148\n* Run cargo fetch on workspace resolve by @maciektr in https://github.com/software-mansion/scarb/pull/1150\n* Use json output format in cargo if set in scarb_ui by @maciektr in https://github.com/software-mansion/scarb/pull/1151\n* Bump the non-critical group with 4 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1163\n* Procedural macros design document by @maciektr in https://github.com/software-mansion/scarb/pull/1109\n* Change compilation unit to enum by @maciektr in https://github.com/software-mansion/scarb/pull/1155\n* Add aux_data to proc macro result by @maciektr in https://github.com/software-mansion/scarb/pull/1143\n* Split cairo-lang-macro crate into two (api <> abi) by @maciektr in https://github.com/software-mansion/scarb/pull/1157\n* Bump the non-critical group with 5 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1168\n* Update CODEOWNERS by @maciektr in https://github.com/software-mansion/scarb/pull/1170\n* Update scarb new/init hello world Cairo code by @maciektr in https://github.com/software-mansion/scarb/pull/1169\n* Prepare release `2.6.0` by @maciektr in https://github.com/software-mansion/scarb/pull/1171\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.5.4...v2.6.0",
+      "downloadCount": 5411,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-03-05T09:44:09Z"
+    }
+  },
+  "2.6.1": {
+    "hashes": {
+      "aarch64-apple-darwin": "a8d9bf8cc52582f69b25e69caa46fee89a149cc32cddc7200cd4a39039ddae90",
+      "aarch64-unknown-linux-gnu": "f45e9bba067d3a10b796872a55ad87942bf4ad8ff4f4dd0a260f09f1437ca14a",
+      "aarch64-unknown-linux-musl": "25d1c5d53b511456b778f07ce28554cb768a0445c80372d6e4a3e537401a5890",
+      "x86_64-apple-darwin": "001091d703ff9f24765b2393a5d70a5b6b2cf4227b7ae6f0b1dd44679fcf709f",
+      "x86_64-pc-windows-msvc": "12a6b23013af66bfa4136c48f15a17f05b8233cf598df06ff409110ed62cc2f1",
+      "x86_64-unknown-linux-gnu": "bc1be91148f589c88aa0fe241acabc31ae61d0b35f0cd85be04239a978c831e1",
+      "x86_64-unknown-linux-musl": "b4b729e18917eceb22fdb13f4f78322e74b7b8665db4fafc54fc07738bc3595b"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-03-06T15:47:00Z",
+          "download_count": 4,
+          "size": 767,
+          "updated_at": "2024-03-06T15:47:00Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/checksums.sha256"
+        },
+        "scarb-v2.6.1-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-06T15:47:00Z",
+          "download_count": 42,
+          "size": 28027580,
+          "updated_at": "2024-03-06T15:47:01Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.1-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-06T15:47:00Z",
+          "download_count": 36,
+          "size": 33592080,
+          "updated_at": "2024-03-06T15:47:01Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.1-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-06T15:47:00Z",
+          "download_count": 261,
+          "size": 33194788,
+          "updated_at": "2024-03-06T15:47:01Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.6.1-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-06T15:47:00Z",
+          "download_count": 13,
+          "size": 30376808,
+          "updated_at": "2024-03-06T15:47:01Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.1-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-03-06T15:47:00Z",
+          "download_count": 10,
+          "size": 30045025,
+          "updated_at": "2024-03-06T15:47:01Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.6.1-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-06T15:47:01Z",
+          "download_count": 337,
+          "size": 34238826,
+          "updated_at": "2024-03-06T15:47:02Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.1-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-06T15:47:01Z",
+          "download_count": 2941,
+          "size": 35019539,
+          "updated_at": "2024-03-06T15:47:03Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.1/scarb-v2.6.1-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.6.1)\n\n> [!WARNING]\n> This version includes an regression, that may cause `cairo-test` to fail to start in some projects. Please use the`v2.6.2` version instead.\n\nWelcome to the release notes for Scarb v2.6.1!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.6.1`](https://github.com/starkware-libs/cairo/releases/tag/v2.6.1).\n\n## What's Changed\n* Bump mio from 0.8.10 to 0.8.11 by @dependabot in https://github.com/software-mansion/scarb/pull/1173\n* Check enable-gas flag in the db by @maciektr in https://github.com/software-mansion/scarb/pull/1172\n* Fix cairo-test for corelib by @maciektr in https://github.com/software-mansion/scarb/pull/1158\n* Adjust diagnostics reporter closure argument by @szymmis in https://github.com/software-mansion/scarb/pull/1175\n* Fix deps features by @maciektr in https://github.com/software-mansion/scarb/pull/1176\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.6.0...v2.6.1",
+      "downloadCount": 3644,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-03-07T08:07:09Z"
+    }
+  },
+  "2.6.2": {
+    "hashes": {
+      "aarch64-apple-darwin": "b09db0566bf70efe1aab617433b0cd05220098fa67b2a886701415d57cf5d1b3",
+      "aarch64-unknown-linux-gnu": "cf167bc3b89adc018f7c7550c9099413df5e1e1297e5c62cf8a58d4e549fde53",
+      "aarch64-unknown-linux-musl": "daf1c6ec18d886b6eade653aeb3fff0dcd5fe541545da2b866a18e18ff7c316b",
+      "x86_64-apple-darwin": "2994c4dc3816811a0231b5bebe4cee0609ca560f3c82f11d1234987241f9f207",
+      "x86_64-pc-windows-msvc": "353ba93efb3a041a363d8a77854aefbfe158b7f307e639875476b7778f72fd96",
+      "x86_64-unknown-linux-gnu": "eb1213309dd9adfd4fa6fc0b1c3dfda0c6357f791ae084ae0da4aa59f0114525",
+      "x86_64-unknown-linux-musl": "6094ea37fbf0a7a1f6bec8e903ed16f106bb1f1bb69c63c72e4b0e3c187ec3cc"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-03-08T19:16:06Z",
+          "download_count": 5,
+          "size": 767,
+          "updated_at": "2024-03-08T19:16:06Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/checksums.sha256"
+        },
+        "scarb-v2.6.2-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-08T19:16:06Z",
+          "download_count": 116,
+          "size": 27982852,
+          "updated_at": "2024-03-08T19:16:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.2-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-08T19:16:06Z",
+          "download_count": 20,
+          "size": 33617072,
+          "updated_at": "2024-03-08T19:16:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.2-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-08T19:16:06Z",
+          "download_count": 258,
+          "size": 33197141,
+          "updated_at": "2024-03-08T19:16:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.6.2-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-08T19:16:06Z",
+          "download_count": 16,
+          "size": 30330679,
+          "updated_at": "2024-03-08T19:16:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.2-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-03-08T19:16:06Z",
+          "download_count": 22,
+          "size": 30086073,
+          "updated_at": "2024-03-08T19:16:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.6.2-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-08T19:16:07Z",
+          "download_count": 397,
+          "size": 34278439,
+          "updated_at": "2024-03-08T19:16:09Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.2-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-08T19:16:07Z",
+          "download_count": 2934,
+          "size": 34955970,
+          "updated_at": "2024-03-08T19:16:09Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.2/scarb-v2.6.2-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.6.2)\n\nWelcome to the release notes for Scarb v2.6.2!\n\n## Fix compilation of tests with contracts in dependencies\nSince Scarb does not compile tests defined in the dependencies of a tested package, all items with the `#[cfg(test)]` attribute are removed from all components in the compilation unit apart from the main component (i.e., the package that is tested).\n\nThis behavior implies that there cannot be any expectation in the Cairo test runner, that items defined under the `#[cfg(test)]` in dependencies are available to be imported during testing. Unfortunately, the implementation of test runner in recent releases of Scarb in some cases has erroneously expected one of the variables in the contract definition to be available under those circumstances. This meant that for some projects, the test runner failed to execute the test.\n\nThis quick release introduces a fix.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.6.2`](https://github.com/starkware-libs/cairo/releases/tag/v2.6.2).\n\n## What's Changed\n* Fix memory managment around the FFI-barrier by @maciektr in https://github.com/software-mansion/scarb/pull/1174\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.6.1...v2.6.2",
+      "downloadCount": 3768,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-03-08T22:19:52Z"
+    }
+  },
+  "2.6.3": {
+    "hashes": {
+      "aarch64-apple-darwin": "ef3c63c1badcdce2fe0e77a1e7094cf6ba059c380268933fe282bc16c5be5137",
+      "aarch64-unknown-linux-gnu": "1b8e315d11d28218a0751ce6578efc84b31fa88b9934898ce8f10f654e26fd78",
+      "aarch64-unknown-linux-musl": "83112215683eacde34de578ad33c5cb656436122db52e63523c8ceda19279ca2",
+      "x86_64-apple-darwin": "017f7bef47f706c64550152292c840f6188255d3b3e97139be85f71954e4029a",
+      "x86_64-pc-windows-msvc": "869688cb1f3630b3aa7618a145d7b5cbac54006498aab2e1795a4fdb0d3f096d",
+      "x86_64-unknown-linux-gnu": "63dd82868d1ac1cbaf40ee9237886afc07ac95cfea94cb193d7ee6252b6cd4bd",
+      "x86_64-unknown-linux-musl": "2453207db472c388c9b404c81a26191c0792d009bbee6bf9378a91a8e52c4172"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-03-13T09:56:45Z",
+          "download_count": 4,
+          "size": 767,
+          "updated_at": "2024-03-13T09:56:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/checksums.sha256"
+        },
+        "scarb-v2.6.3-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-13T09:56:45Z",
+          "download_count": 2377,
+          "size": 28018900,
+          "updated_at": "2024-03-13T09:56:46Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.3-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-13T09:56:45Z",
+          "download_count": 209,
+          "size": 33612684,
+          "updated_at": "2024-03-13T09:56:47Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.3-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-13T09:56:45Z",
+          "download_count": 287,
+          "size": 33244222,
+          "updated_at": "2024-03-13T09:56:47Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.6.3-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-13T09:56:45Z",
+          "download_count": 147,
+          "size": 30382408,
+          "updated_at": "2024-03-13T09:56:47Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.3-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-03-13T09:56:45Z",
+          "download_count": 37,
+          "size": 30017221,
+          "updated_at": "2024-03-13T09:56:46Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.6.3-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-13T09:56:46Z",
+          "download_count": 22633,
+          "size": 34307620,
+          "updated_at": "2024-03-13T09:56:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.3-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-13T09:56:47Z",
+          "download_count": 5255,
+          "size": 35093629,
+          "updated_at": "2024-03-13T09:56:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.3/scarb-v2.6.3-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.6.3)\n\nWelcome to the release notes for Scarb `v2.6.3`!\nThis quick release is primarily a Cairo upgrade.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.6.3`](https://github.com/starkware-libs/cairo/releases/tag/v2.6.3).\n\n## What's Changed\n* Bump the non-critical group with 3 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1180\n* Add note about binaries list. by @maciektr in https://github.com/software-mansion/scarb/pull/1181\n* Update cairo  by @maciektr in https://github.com/software-mansion/scarb/pull/1182\n* Implement procedural macro diagnostics by @maciektr in https://github.com/software-mansion/scarb/pull/1159\n* Add remove/replace proc macro e2e tests by @maciektr in https://github.com/software-mansion/scarb/pull/1161\n* Add collect aux data mechanism by @maciektr in https://github.com/software-mansion/scarb/pull/1165\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.6.2...v2.6.3",
+      "downloadCount": 30949,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-03-13T10:43:32Z"
+    }
+  },
+  "2.6.4": {
+    "hashes": {
+      "aarch64-apple-darwin": "2e9ef85a39b07c23d33604ac510c582299759d46bedc2c8aefa5407692de9178",
+      "aarch64-unknown-linux-gnu": "ffa3f75f9106f102faa765062fbfa711f7bcbf2923cd6861c05a1cc2f052627b",
+      "aarch64-unknown-linux-musl": "5c26a59243c8f0506a9ea441dc0639eea7385d0356a8af3da654d0f1a6a00f9a",
+      "x86_64-apple-darwin": "6bc9e97c756b67ad6f0ee4ef6da9ceacf5bd1b7ed9fc3f3d235efb2ad26f93d6",
+      "x86_64-pc-windows-msvc": "64873dc3e3ca0f20813f0c9b7e502f3f02e3667e317c919d8a6eb6788c987dd5",
+      "x86_64-unknown-linux-gnu": "b36ef02bca53b04367bfc6d4794c2389a357f1b1f38259092febe3cf0292d0fc",
+      "x86_64-unknown-linux-musl": "4b4a4acbc0ef6b41e662c7ca97b6b652f2ea640facfdfaa144ed6f1485a34daf"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-03-19T17:32:01Z",
+          "download_count": 13,
+          "size": 767,
+          "updated_at": "2024-03-19T17:32:01Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/checksums.sha256"
+        },
+        "scarb-v2.6.4-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-19T17:32:01Z",
+          "download_count": 1512,
+          "size": 28114498,
+          "updated_at": "2024-03-19T17:32:03Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.4-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-19T17:32:01Z",
+          "download_count": 224,
+          "size": 33628252,
+          "updated_at": "2024-03-19T17:32:03Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.4-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-19T17:32:01Z",
+          "download_count": 306,
+          "size": 33254839,
+          "updated_at": "2024-03-19T17:32:03Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.6.4-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-03-19T17:32:01Z",
+          "download_count": 238,
+          "size": 30452783,
+          "updated_at": "2024-03-19T17:32:03Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.4-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-03-19T17:32:02Z",
+          "download_count": 270,
+          "size": 30056466,
+          "updated_at": "2024-03-19T17:32:03Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.6.4-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-03-19T17:32:03Z",
+          "download_count": 12905,
+          "size": 34309212,
+          "updated_at": "2024-03-19T17:32:04Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.4-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-03-19T17:32:03Z",
+          "download_count": 2592,
+          "size": 35108714,
+          "updated_at": "2024-03-19T17:32:05Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.4/scarb-v2.6.4-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.6.3)\n\nWelcome to the release notes for Scarb `v2.6.4`!\nThis release introduces preliminary work on procedural macros and a new configuration flag.\n\n## An option to disable gas calculation\n\nThis release introduces a new flag in the Cairo compiler configuration, called `enable-gas`.\n\nIf set to `false`, Scarb will not add any instructions related to gas usage calculation during the project compilation. By default, this flag is set to `true`. This flag cannot be disabled while compiling the `starknet-contract` target.\n\n```toml\n[cairo]\nenable-gas = false\n```\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.6.3`](https://github.com/starkware-libs/cairo/releases/tag/v2.6.3).\n\n## What's Changed\n* Remove macro_commons by @maciektr in https://github.com/software-mansion/scarb/pull/1185\n* Update telegram invite by @maciektr in https://github.com/software-mansion/scarb/pull/1189\n* Update CODEOWNERS by @maciektr in https://github.com/software-mansion/scarb/pull/1191\n* Move Scarb StableHash to separate crate by @maciektr in https://github.com/software-mansion/scarb/pull/1187\n* Store AuxData as Vec<u8> instead of serde/string by @maciektr in https://github.com/software-mansion/scarb/pull/1188\n* Update `redb` to `2.0.0-beta0` by @mkaput in https://github.com/software-mansion/scarb/pull/1199\n* Bump gix from 0.58.0 to 0.61.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1198\n* Update deps by @maciektr in https://github.com/software-mansion/scarb/pull/1202\n* Implement aux_data callback by @maciektr in https://github.com/software-mansion/scarb/pull/1186\n* fix: derive Clone and Debug for CompilationUnit enum by @glihm in https://github.com/software-mansion/scarb/pull/1203\n* Fix gas validations for disabled gas casm compilation by @maciektr in https://github.com/software-mansion/scarb/pull/1204\n\n## New Contributors\n* @glihm made their first contribution in https://github.com/software-mansion/scarb/pull/1203\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.6.3...v2.6.4",
+      "downloadCount": 18060,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-03-19T22:32:43Z"
+    }
+  },
+  "2.6.5": {
+    "hashes": {
+      "aarch64-apple-darwin": "4999f90db61e4efbdb1a3b7b310e9043a78c368c7977fa8c79c936870cf762de",
+      "aarch64-unknown-linux-gnu": "a82386ad80e6944ca56c681162f94243559635d227364f2f4e7057e4464c97f5",
+      "aarch64-unknown-linux-musl": "3f8b8b7193479709832a48ed78e86a1d31ee5f5f34b142b8f2114f8d7b16058c",
+      "x86_64-apple-darwin": "088f9b035ed404bbb2e53d544a624bd1484d026344b441992a09a2076eecdaf5",
+      "x86_64-pc-windows-msvc": "15790eb6418059e755e377bedf4746ff1703cd4c4f35cd1e69a9d3bcb8887bdd",
+      "x86_64-unknown-linux-gnu": "4a48d89e48bb8cf8c9ca13dda6b68e303ddf0743a6921483e7bd93c04e989437",
+      "x86_64-unknown-linux-musl": "3885dd38497c3ed5dc7c325cf7e4e33e113b9b8f634be02181a7f7ad49f1b415"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-06-11T13:36:54Z",
+          "download_count": 4,
+          "size": 767,
+          "updated_at": "2024-06-11T13:36:54Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/checksums.sha256"
+        },
+        "scarb-v2.6.5-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-06-11T13:36:54Z",
+          "download_count": 814,
+          "size": 30475242,
+          "updated_at": "2024-06-11T13:36:55Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.5-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-06-11T13:36:54Z",
+          "download_count": 196,
+          "size": 36147965,
+          "updated_at": "2024-06-11T13:36:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.5-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-06-11T13:36:54Z",
+          "download_count": 260,
+          "size": 35603530,
+          "updated_at": "2024-06-11T13:36:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.6.5-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-06-11T13:36:54Z",
+          "download_count": 168,
+          "size": 33020799,
+          "updated_at": "2024-06-11T13:36:55Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.6.5-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-06-11T13:36:55Z",
+          "download_count": 152,
+          "size": 32707887,
+          "updated_at": "2024-06-11T13:36:55Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.6.5-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-06-11T13:36:55Z",
+          "download_count": 18057,
+          "size": 36975525,
+          "updated_at": "2024-06-11T13:36:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.6.5-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-06-11T13:36:56Z",
+          "download_count": 5162,
+          "size": 37736584,
+          "updated_at": "2024-06-11T13:36:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.6.5/scarb-v2.6.5-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.6.4)\n\nWelcome to the release notes for Scarb `v2.6.5`!\nThis quick release is primarily a Cairo upgrade.\n\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.6.4`](https://github.com/starkware-libs/cairo/releases/tag/v2.6.4).\n\n## What's Changed\n* Store file path and file id in token stream metadata by @maciektr in https://github.com/software-mansion/scarb/pull/1192\n* Refactor: move cairo-lang-macro types to submodule by @maciektr in https://github.com/software-mansion/scarb/pull/1194\n* Rust update - fix build and clippy erorrs by @maciektr in https://github.com/software-mansion/scarb/pull/1213\n* Fix nightlies pipeline after rust package id spec update by @maciektr in https://github.com/software-mansion/scarb/pull/1222\n* Consider a case when the test fn return types are actually an empty vec by @Arcticae in https://github.com/software-mansion/scarb/pull/1224\n* Enforce fuzzer_runs >= 1 in snforge-test-collector by @Draggu in https://github.com/software-mansion/scarb/pull/1231\n* Fix ci after rust update  by @maciektr in https://github.com/software-mansion/scarb/pull/1291\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.6.4...v2.6.5",
+      "downloadCount": 24813,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-06-11T16:36:05Z"
+    }
+  },
+  "2.7.0": {
+    "hashes": {
+      "aarch64-apple-darwin": "fbcba531808dc54932e9dc7ff473bd5ce320c8ffc9ea9ffd034c82efb0e2b57a",
+      "aarch64-unknown-linux-gnu": "48ae8b6786524e42c50d936b01ef46b989625d66e9a46a96a668c632ab523430",
+      "aarch64-unknown-linux-musl": "bd4997f9eb4fec7dc61ef6b98fc555bd66ff5c942f1520757223ff940e9def12",
+      "x86_64-apple-darwin": "689da2cfa9a47c8799896821e5ef616e0b7f0e83e30ca89b3fe63e24a8cb1c58",
+      "x86_64-pc-windows-msvc": "d982e96559b1b9da012b5a82bea812bf22bf43d9ef7ca6e8bc6c636a923c49ac",
+      "x86_64-unknown-linux-gnu": "223871558c1fdb437bf25afceaec67226cc5374438867e54d8f73a14f2160897",
+      "x86_64-unknown-linux-musl": "573c2bed60180a29f7b61c7feec49f6d986a6e7e4d86e9f207877c1df58e683f"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-08-01T13:56:55Z",
+          "download_count": 1,
+          "size": 767,
+          "updated_at": "2024-08-01T13:56:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/checksums.sha256"
+        },
+        "scarb-v2.7.0-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-01T13:56:55Z",
+          "download_count": 919,
+          "size": 31643013,
+          "updated_at": "2024-08-01T13:56:56Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.7.0-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-01T13:56:55Z",
+          "download_count": 312,
+          "size": 35728411,
+          "updated_at": "2024-08-01T13:56:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.7.0-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-01T13:56:55Z",
+          "download_count": 250,
+          "size": 34747042,
+          "updated_at": "2024-08-01T13:56:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.7.0-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-01T13:56:55Z",
+          "download_count": 90,
+          "size": 34328519,
+          "updated_at": "2024-08-01T13:56:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.7.0-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-08-01T13:56:56Z",
+          "download_count": 483,
+          "size": 35244353,
+          "updated_at": "2024-08-01T13:56:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.7.0-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-01T13:56:56Z",
+          "download_count": 33823,
+          "size": 36322541,
+          "updated_at": "2024-08-01T13:56:57Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.7.0-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-01T13:56:57Z",
+          "download_count": 1118,
+          "size": 36790662,
+          "updated_at": "2024-08-01T13:56:58Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.0/scarb-v2.7.0-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.7.0)\n\nWelcome to the release notes for Scarb `v2.7.0`!\n\nThis release comes with several new developments.\n\n## Procedural macros\n\nSince this release, we now officially support code generation! You can write your own macros in Rust, that modify the Cairo code of your project during compilation.\n\nLearn more by [reading our docs](https://docs.swmansion.com/scarb/docs/reference/procedural-macro.html).\n\n## Generating documentation with `scarb-doc`\n\nWith this release, it is now possible to automatically generate documentation for your project by running `scarb doc` command. This documentation will include all doc comments you add to your code with `///` prefix. The collected documentation is output to the `target/doc/<package-name>` directory, in either custom `JSON`, or `mdBook` compatible markdown format.\n\nLearn more by [reading our docs](https://docs.swmansion.com/scarb/docs/extensions/documentation-generation.html).\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.7.0`](https://github.com/starkware-libs/cairo/releases/tag/v2.7.0).\n\n## What's Changed\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1469\n* Bump the non-critical group with 6 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1470\n* Foldable sidebar by @piotmag769 in https://github.com/software-mansion/scarb/pull/1468\n* Bump openssl from 0.10.64 to 0.10.66 by @dependabot in https://github.com/software-mansion/scarb/pull/1471\n* Fix clippy warnings after rust update by @maciektr in https://github.com/software-mansion/scarb/pull/1476\n* Allow executing scripts in workspace root by @maciektr in https://github.com/software-mansion/scarb/pull/1473\n* Bump gix-attributes from 0.22.2 to 0.22.3 by @dependabot in https://github.com/software-mansion/scarb/pull/1475\n* Replace stabilized once_cell api by @maciektr in https://github.com/software-mansion/scarb/pull/1477\n* Make scarb new and init command interactive by @ksew1 in https://github.com/software-mansion/scarb/pull/1472\n* Fix inlining strategy flag - pass during db construction by @maciektr in https://github.com/software-mansion/scarb/pull/1478\n* Bump gix from 0.63.0 to 0.64.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1481\n* Bump the non-critical group with 6 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1480\n* Update CODEOWNERS by @maciektr in https://github.com/software-mansion/scarb/pull/1482\n* Prepare scarb-stable-hash for publishing by @maciektr in https://github.com/software-mansion/scarb/pull/1490\n* Prepare cairo-lang-macro-stable for publishing by @maciektr in https://github.com/software-mansion/scarb/pull/1491\n* Add procedural macros page to docs by @maciektr in https://github.com/software-mansion/scarb/pull/1492\n* Fix verify archive smoke test by @maciektr in https://github.com/software-mansion/scarb/pull/1498\n* Drop rlib from build_cairo_plugin tests by @maciektr in https://github.com/software-mansion/scarb/pull/1493\n* Prepare cairo-lang-macro-attributes for publishing by @maciektr in https://github.com/software-mansion/scarb/pull/1494\n* Prepare cairo-lang-macro for publishing by @maciektr in https://github.com/software-mansion/scarb/pull/1495\n* Add link to docs.rs for cairo-lang-macro by @maciektr in https://github.com/software-mansion/scarb/pull/1496\n* Prepare release 2.7.0 by @THenry14 in https://github.com/software-mansion/scarb/pull/1500\n\n## New Contributors\n* @ksew1 made their first contribution in https://github.com/software-mansion/scarb/pull/1472\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.7.0-rc.4...v2.7.0",
+      "downloadCount": 36996,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-08-01T14:08:04Z"
+    }
+  },
+  "2.7.1": {
+    "hashes": {
+      "aarch64-apple-darwin": "6fee6a5ea08108826c31ac978cd66456b99211dbc1800f240b5fece3de762327",
+      "aarch64-unknown-linux-gnu": "04db6c6b0d4225619f10e80d412e9d71d19bdfad71bf4db203395e724497bbb5",
+      "aarch64-unknown-linux-musl": "a78ea462065d3bd51127bc2132b3fbe144d61a8ae090f5f011ebc29d104ef580",
+      "x86_64-apple-darwin": "f5f2ec3cb5e1c98371fdbff8c528268722c2d05efbd6238936ef4a7652306de7",
+      "x86_64-pc-windows-msvc": "a93ed0c35820a5898bacf37fe2ff41635acaf06afd16a381df819de1c0921428",
+      "x86_64-unknown-linux-gnu": "fd0ba5edc56ae83a29078dd81d77df7547354b3145da8fb9d68426f4001ae88d",
+      "x86_64-unknown-linux-musl": "d0e3051c5481904d4ab53937196ac7f48beb0d7d4c84748dcb8e024469597141"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-08-13T20:03:22Z",
+          "download_count": 2,
+          "size": 767,
+          "updated_at": "2024-08-13T20:03:22Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/checksums.sha256"
+        },
+        "scarb-v2.7.1-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-13T20:03:22Z",
+          "download_count": 400,
+          "size": 31718086,
+          "updated_at": "2024-08-13T20:03:23Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.7.1-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-13T20:03:22Z",
+          "download_count": 23,
+          "size": 35781490,
+          "updated_at": "2024-08-13T20:03:23Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.7.1-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-13T20:03:22Z",
+          "download_count": 253,
+          "size": 34802129,
+          "updated_at": "2024-08-13T20:03:23Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.7.1-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-13T20:03:22Z",
+          "download_count": 46,
+          "size": 34373410,
+          "updated_at": "2024-08-13T20:03:23Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.7.1-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-08-13T20:03:23Z",
+          "download_count": 66,
+          "size": 35271040,
+          "updated_at": "2024-08-13T20:03:24Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.7.1-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-13T20:03:23Z",
+          "download_count": 6629,
+          "size": 36335813,
+          "updated_at": "2024-08-13T20:03:24Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.7.1-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-13T20:03:23Z",
+          "download_count": 1348,
+          "size": 36817452,
+          "updated_at": "2024-08-13T20:03:24Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.7.1/scarb-v2.7.1-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.7.1)\n\nWelcome to the release notes for Scarb `v2.7.1`!\n\nThis release is primarily a Cairo update.\n\nIt also introduces an `mdBook` compatible Cairo code highlighter, that can be useful for docs generated with `scarb-doc`.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.7.1`](https://github.com/starkware-libs/cairo/releases/tag/v2.7.1).\n\n## What's Changed\n* Create highlight.js file for mdBook cairo support by @wawel37 in https://github.com/software-mansion/scarb/pull/1499\n* Update cairo, fix nightlies by @THenry14 in https://github.com/software-mansion/scarb/pull/1505\n* Bump the non-critical group with 5 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1504\n* Update cairo, fix nightlies by @THenry14 in https://github.com/software-mansion/scarb/pull/1510\n* Fix diagnostics reporter main crates setup by @maciektr in https://github.com/software-mansion/scarb/pull/1514\n* Added Nit about doc markdown being mdBook compatiable. by @wawel37 in https://github.com/software-mansion/scarb/pull/1513\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1515\n* Add basic scarb doc documentation by @wawel37 in https://github.com/software-mansion/scarb/pull/1518\n* Prepare release `2.7.1` by @maciektr in https://github.com/software-mansion/scarb/pull/1520\n\n## New Contributors\n* @wawel37 made their first contribution in https://github.com/software-mansion/scarb/pull/1499\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.7.0...v2.7.1",
+      "downloadCount": 8767,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-08-14T09:00:54Z"
+    }
+  },
+  "2.8.0": {
+    "hashes": {
+      "aarch64-apple-darwin": "edcbf0510664a28ac93ce9f6206dd4581054fcf54c8ca69acb951bd662ed9e58",
+      "aarch64-unknown-linux-gnu": "0f5d64709574e55efd15cb7d9b58ddeec5b402423eadca131e1eeab03a58fe76",
+      "aarch64-unknown-linux-musl": "cec42e3f8e24c0bc5db1c40080d702b8f1d17098fb3a81304cb09641742a3e35",
+      "x86_64-apple-darwin": "aabd1dfffb5295357fefdef04c5b35f07c377b76d3497e097723a9bff3469df5",
+      "x86_64-pc-windows-msvc": "65c103637aca044b4c96ada274c779262aa4f986752202e64fa9d457f5d86d8d",
+      "x86_64-unknown-linux-gnu": "4f84ef97d7f6f7a99afd7e0a18625ce387594fbf8013fba7019338e4026dae72",
+      "x86_64-unknown-linux-musl": "e61c18a473ef499825ceaf6fde1779c7b9dd154fd848eec4b4bd8d439506c205"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-08-27T22:52:26Z",
+          "download_count": 2,
+          "size": 767,
+          "updated_at": "2024-08-27T22:52:26Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/checksums.sha256"
+        },
+        "scarb-v2.8.0-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-27T22:52:26Z",
+          "download_count": 346,
+          "size": 33718078,
+          "updated_at": "2024-08-27T22:52:27Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.0-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-27T22:52:26Z",
+          "download_count": 22,
+          "size": 37572413,
+          "updated_at": "2024-08-27T22:52:27Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.0-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-27T22:52:26Z",
+          "download_count": 252,
+          "size": 36828581,
+          "updated_at": "2024-08-27T22:52:27Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.8.0-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-27T22:52:26Z",
+          "download_count": 35,
+          "size": 37197990,
+          "updated_at": "2024-08-27T22:52:27Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.0-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-08-27T22:52:26Z",
+          "download_count": 19,
+          "size": 38091182,
+          "updated_at": "2024-08-27T22:52:27Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.8.0-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-27T22:52:27Z",
+          "download_count": 2652,
+          "size": 39242360,
+          "updated_at": "2024-08-27T22:52:29Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.0-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-27T22:52:28Z",
+          "download_count": 1154,
+          "size": 39632598,
+          "updated_at": "2024-08-27T22:52:28Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.0/scarb-v2.8.0-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.8.0)\n\nWelcome to the release notes for Scarb `v2.8.0`!\nThis release includes several bug fixes and new developments.\n\n\n* **Scarb features support in scarb-doc** - you can now control conditional compilation while generating docs!\n* **Document only public items** - the documentation is now only generated for public items by `scarb-doc` (unless used with `--document-private-items` flag).\n* **Cairo coverage support** - Scarb now includes an `unstable-add-statements-code-locations-debug-info` Cairo config key that enables generating mappings used by [cairo-coverage](https://github.com/software-mansion/cairo-coverage).\n* **Dev dependencies propagation fix** - due to an error in Scarb dependency resolver, in some cases dev-deps from other workspace members would end up being used during compilation.\n* **Diagnostics fix** - in some cases, diagnostics from package dependencies could be missing, resulting in a panic during package build.\n* ~**The assert_macros package version change** - the `assert_macros` package that contains macros like `assert_eq!` is now versioned with the same version as Scarb.~ (fixed in `2.8.1`)\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.8.0`](https://github.com/starkware-libs/cairo/releases/tag/v2.8.0).\n\n## What's Changed\n* Add cairo highlight documentation by @wawel37 in https://github.com/software-mansion/scarb/pull/1521\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1522\n* Document registries and packaging process by @szymmis in https://github.com/software-mansion/scarb/pull/962\n* Bump the non-critical group with 6 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1526\n* Fix test runner flag in docs by @maciektr in https://github.com/software-mansion/scarb/pull/1529\n* Doc/features support by @wawel37 in https://github.com/software-mansion/scarb/pull/1511\n* Update Cairo, move scarb-doc to rust-analyzer-salsa by @maciektr in https://github.com/software-mansion/scarb/pull/1531\n* Document Scarb.toml `publish` field by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1533\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1539\n* starknet_multiple_contracts example refurbishment by @stranger80 in https://github.com/software-mansion/scarb/pull/1543\n* Fix dev-deps propagation for ws members by @maciektr in https://github.com/software-mansion/scarb/pull/1542\n* Revert \"Fix diagnostics reporter main crates setup (#1514)\" by @maciektr in https://github.com/software-mansion/scarb/pull/1540\n* Pin assert_macros version to Scarb version by @maciektr in https://github.com/software-mansion/scarb/pull/1537\n* Doc / Add `--document-private-items` flag by @wawel37 in https://github.com/software-mansion/scarb/pull/1528\n* Do not show warnings from dependencies by @maciektr in https://github.com/software-mansion/scarb/pull/1547\n* Add `unstable-add-statements-code-locations-debug-info` flag by @maciektr in https://github.com/software-mansion/scarb/pull/1538\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1545\n* Update gix to 0.66 by @maciektr in https://github.com/software-mansion/scarb/pull/1549\n* Stack size troubleshooting  by @maciektr in https://github.com/software-mansion/scarb/pull/1548\n* Fix dev deps propagation by @maciektr in https://github.com/software-mansion/scarb/pull/1552\n* Prepare release `2.8.0` by @maciektr in https://github.com/software-mansion/scarb/pull/1551\n\n## New Contributors\n* @stranger80 made their first contribution in https://github.com/software-mansion/scarb/pull/1543\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.7.1...v2.8.0",
+      "downloadCount": 4482,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-08-28T09:18:23Z"
+    }
+  },
+  "2.8.1": {
+    "hashes": {
+      "aarch64-apple-darwin": "0229b8f7031b089f6bcb263df1b11739d507bb080eb73fb9ef9b279e82da04ab",
+      "aarch64-unknown-linux-gnu": "b8feaf0108946be9980087fef105130cd9b3c9e287be207cc79239210b9bc80d",
+      "aarch64-unknown-linux-musl": "f61ba217b134c366f6035772c2e12bfb29e8bb420f1d86c9ab88ca5484fbb6d6",
+      "x86_64-apple-darwin": "7188303db2d44b329ada385d33c38288437af510b6527525a849a8e16103acc7",
+      "x86_64-pc-windows-msvc": "b3518f5a202044b5aa9aa15afc60bfe860f64d1b2e948593d6ac08c705b6fba4",
+      "x86_64-unknown-linux-gnu": "ad69962357a30a344dc169511b3e72377cf79cdd958f68cd04f5f969e9012c72",
+      "x86_64-unknown-linux-musl": "c065350973619e099db1c185ce49bca437bb48f616823011dd8baab796230816"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-08-30T00:23:39Z",
+          "download_count": 3,
+          "size": 767,
+          "updated_at": "2024-08-30T00:23:40Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/checksums.sha256"
+        },
+        "scarb-v2.8.1-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-30T00:23:39Z",
+          "download_count": 264,
+          "size": 33716054,
+          "updated_at": "2024-08-30T00:23:42Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.1-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-30T00:23:39Z",
+          "download_count": 40,
+          "size": 37578506,
+          "updated_at": "2024-08-30T00:23:42Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.1-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-30T00:23:39Z",
+          "download_count": 248,
+          "size": 36832064,
+          "updated_at": "2024-08-30T00:23:42Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.8.1-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-08-30T00:23:39Z",
+          "download_count": 70,
+          "size": 37203252,
+          "updated_at": "2024-08-30T00:23:42Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.1-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-08-30T00:23:40Z",
+          "download_count": 376,
+          "size": 38087707,
+          "updated_at": "2024-08-30T00:23:42Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.8.1-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-08-30T00:23:42Z",
+          "download_count": 6811,
+          "size": 39238736,
+          "updated_at": "2024-08-30T00:23:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.1-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-08-30T00:23:43Z",
+          "download_count": 1126,
+          "size": 39639937,
+          "updated_at": "2024-08-30T00:23:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.1/scarb-v2.8.1-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.8.0)\n\nWelcome to the release notes for Scarb `v2.8.1`!\nThis is a quick fix release which does not include any new features - only bug fixes.\n\n* **The assert_macros package version change** - the `assert_macros` package that contains macros like `assert_eq!` is now versioned with the same version as Cairo compiler used by Scarb.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.8.0`](https://github.com/starkware-libs/cairo/releases/tag/v2.8.0).\n\n## What's Changed\n* Fix proc macro diagnostics stable pointer by @maciektr in https://github.com/software-mansion/scarb/pull/1555\n* Fix assert macros by @maciektr in https://github.com/software-mansion/scarb/pull/1563\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.8.0...v2.8.1",
+      "downloadCount": 8938,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-08-30T10:21:14Z"
+    }
+  },
+  "2.8.2": {
+    "hashes": {
+      "aarch64-apple-darwin": "59d041fca5404b0c60e0e1ff22e9d1929b118c9914ba80c012cac7c372168e2c",
+      "aarch64-unknown-linux-gnu": "c4e0066b00af0e644585f4c27ecea55abed732679b7e8654876303bae982e2f6",
+      "aarch64-unknown-linux-musl": "35bb6f035691fe71faf5836b8e90d05671f4407a14758e31658fd5c7e97d2a08",
+      "x86_64-apple-darwin": "209979076e65ba3e0d53506cab826516a647f44c0d77fc4be221fea5bcb6607e",
+      "x86_64-pc-windows-msvc": "ef9161f4305c4ac3262810fb0e888835a00204b98dd185ec07d2cc4e3e9c0330",
+      "x86_64-unknown-linux-gnu": "2033173c4b8e72fd4bf1779baca6d5348d4f0b53327a14742cb2f65c2f0e892c",
+      "x86_64-unknown-linux-musl": "b8c99d5f917880f4416e443abfaeab9eb2af7b8d34d34a84e5c913b0e8149d22"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-09-09T11:31:40Z",
+          "download_count": 3,
+          "size": 767,
+          "updated_at": "2024-09-09T11:31:41Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/checksums.sha256"
+        },
+        "scarb-v2.8.2-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-09-09T11:31:40Z",
+          "download_count": 1026,
+          "size": 34249466,
+          "updated_at": "2024-09-09T11:31:44Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.2-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-09-09T11:31:40Z",
+          "download_count": 131,
+          "size": 38184533,
+          "updated_at": "2024-09-09T11:31:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.2-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-09-09T11:31:40Z",
+          "download_count": 224,
+          "size": 37475264,
+          "updated_at": "2024-09-09T11:31:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.8.2-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-09-09T11:31:40Z",
+          "download_count": 70,
+          "size": 37817169,
+          "updated_at": "2024-09-09T11:31:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.2-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-09-09T11:31:41Z",
+          "download_count": 83,
+          "size": 38390518,
+          "updated_at": "2024-09-09T11:31:43Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.8.2-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-09-09T11:31:43Z",
+          "download_count": 18573,
+          "size": 39812161,
+          "updated_at": "2024-09-09T11:31:45Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.2-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-09-09T11:31:45Z",
+          "download_count": 1087,
+          "size": 40278261,
+          "updated_at": "2024-09-09T11:31:46Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.2/scarb-v2.8.2-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.8.2)\n\nWelcome to the release notes for Scarb `v2.8.2`!\nThis release includes several bug fixes and new developments.\n\n* **Scarb publish support** - Scarb now supports publishing packages to the registry! To upload a package to the official [scarbs.xyz](https://scarbs.xyz/) registry, you can now simply do `scarb publish`. The authentication token for the registry interactions can be obtained through the registry and provided by environmental variable. Please see [the \"Publishing\" page](https://docs.swmansion.com/scarb/docs/registries/publishing.html) in our documentation for more information.\n* **Hidden line support in doc snippets** - documentation generated with `scarb doc` now supports [hidding code lines](https://rust-lang.github.io/mdBook/format/mdbook.html?highlight=hidden#hiding-code-lines) in Cairo code snippets. The `highlight.js` [highlighter](https://docs.swmansion.com/scarb/docs/extensions/documentation-generation.html#cairo-code-highlighting-using-mdbook) modified for use with `scarb doc` generated docs supports highligthing snippets with hidden lines.\n* **Unnecessary registry downloads fix** - Due to a bug in registry client implementation, some packages would end up being unnecessarly downloaded multiple times. Since this release, this should not happen no more.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.8.2`](https://github.com/starkware-libs/cairo/releases/tag/v2.8.2).\n\n\n## What's Changed\n* Update README.md by @mkaput in https://github.com/software-mansion/scarb/pull/1558\n* Update cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1559\n* Bump slackapi/slack-github-action from 1.26.0 to 1.27.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1567\n* Bump deno_task_shell from 0.17.0 to 0.18.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1569\n* Bump the non-critical group with 4 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1568\n* Fix unnecessary downloads of cached registry packages by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1571\n* Update highlight.js / hidden line rust. by @wawel37 in https://github.com/software-mansion/scarb/pull/1566\n* Rename `open_rw`->`create_rw` by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1573\n* Update CODEOWNERS by @maciektr in https://github.com/software-mansion/scarb/pull/1575\n* Add `cargo xtask set-cairo-version --path` by @mkaput in https://github.com/software-mansion/scarb/pull/1578\n* Remove allow(dead_code) from scarb-doc by @maciektr in https://github.com/software-mansion/scarb/pull/1574\n* Add package publish by @THenry14 in https://github.com/software-mansion/scarb/pull/1570\n\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.8.1...v2.8.2",
+      "downloadCount": 21197,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-09-09T12:12:13Z"
+    }
+  },
+  "2.8.3": {
+    "hashes": {
+      "aarch64-apple-darwin": "88ee9a4c5651dad137dfbf70f6db820e399c1bdb7705c616e8afb54f4aef4fee",
+      "aarch64-unknown-linux-gnu": "d0e9a47308dd4fc83574e956ee5d5166c36a390e6ce752b04a192b030ee58ccc",
+      "aarch64-unknown-linux-musl": "1017bec4aa8d0e8eef18aabd7e5e3d22366705c5dd9dc63a9bd54f2ee9bf1e9f",
+      "x86_64-apple-darwin": "54af8bbab0565a1645b348aedc9991bd0401334cc3220d37ebcda3eb73554380",
+      "x86_64-pc-windows-msvc": "183dd5954d3e0a661760cec3420cbedb709b5d20614bf91c45acff4fa5f413ca",
+      "x86_64-unknown-linux-gnu": "45a742f69a35eb181993422e3aa78c9eda523857c172b94a7382eb491ba023c2",
+      "x86_64-unknown-linux-musl": "5a18080bc61fa48ca0138a7133f6b37c5ecc47f412c4b35c41c8e887c2fd68f5"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-09-26T00:36:11Z",
+          "download_count": 0,
+          "size": 767,
+          "updated_at": "2024-09-26T00:36:11Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/checksums.sha256"
+        },
+        "scarb-v2.8.3-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-09-26T00:36:11Z",
+          "download_count": 392,
+          "size": 34291588,
+          "updated_at": "2024-09-26T00:36:13Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.3-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-09-26T00:36:11Z",
+          "download_count": 91,
+          "size": 38227516,
+          "updated_at": "2024-09-26T00:36:13Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.3-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-09-26T00:36:11Z",
+          "download_count": 155,
+          "size": 37479794,
+          "updated_at": "2024-09-26T00:36:13Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.8.3-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-09-26T00:36:11Z",
+          "download_count": 56,
+          "size": 37824831,
+          "updated_at": "2024-09-26T00:36:13Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.3-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-09-26T00:36:11Z",
+          "download_count": 45,
+          "size": 38475458,
+          "updated_at": "2024-09-26T00:36:12Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.8.3-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-09-26T00:36:13Z",
+          "download_count": 9674,
+          "size": 39871895,
+          "updated_at": "2024-09-26T00:36:14Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.3-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-09-26T00:36:13Z",
+          "download_count": 383,
+          "size": 40307697,
+          "updated_at": "2024-09-26T00:36:14Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.3/scarb-v2.8.3-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.8.2)\n\nWelcome to the release notes for Scarb `v2.8.3`!\n\nThe primary aim of this release is to bring changes that will make test targets compilation faster.\nThis release also includes several interface changes and developments.\n\n### Contracts from dependencies no longer compiled by default with `cairo-test`\n> [!WARNING]\n> **If your `cairo-test` tests use contracts defined in dependencies, an action is required!**\n\nUntil this Scarb release, `cairo-test` has been implicitly building all contracts from all dependencies of the tested package.\nThis strategy has been seen as convenient for it's users (as no action has been required from them to use those contracts in their tests). However, as Cairo codebases grew, it became unsustainably suboptimal. Since this release, only contracts defined in `build-external-contracts` property on `[[target.starknet-contract]]` section are built when compiling tests. See [Scarb documentation](https://docs.swmansion.com/scarb/docs/extensions/starknet/contract-target.html#compiling-external-contracts) for more details. This is the same strategy, that has been already used by Starknet Foundry [Forge, as described in docs](https://foundry-rs.github.io/starknet-foundry/testing/contracts-collection.html?highlight=build-external-contra#using-external-contracts-in-tests).\n\n### Print profile names in finished build message\nFrom this release, the message printed on finished build now includes the name of the profile used.\nFor example:\n```\n    Finished `dev` profile target(s) in 4 seconds\n```\n\n### Support Trait and Impl inner functions in Scarb procedural macro attributes\nIt is now possible, to use attribute procedural macros on functions defined in traits or impls.\nFor instance, following syntax is now supported to expand `some_attribute` attribute.\n```cairo\n#[abi(embed_v0)]\nimpl SomeImpl of ISomeInterface<ContractState> {\n   fn get(self: @ContractState) -> u128 {\n      self.counter.read()\n   }\n\n   #[some_attribute]\n   fn increase(ref self: ContractState)  {\n      self.counter.write( self.counter.read() + 1 );\n   }\n}\n```\n\n### Features validation in a workspace bug fix\nDue to a bug in features validation logic, it has been observed that features defined in a single package of a workspace failed to resolved if not defined in other workspace packages. This logic has been fixed now.\n\n### Minor interface changes\n* **Target kinds filter in `scarb build`** - This version introduces new optional argument `--target-kinds` which accepts a coma separated list of target kind names. If present, only specified target kinds will be built.\n* **Cairo run arguments file** - This version introduces new optional argument `--arguments-file`, which can be used to provide program arguments through file on host os.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.8.2`](https://github.com/starkware-libs/cairo/releases/tag/v2.8.2).\n\n## What's Changed\n* Bump the non-critical group with 6 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1583\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1584\n* Update CODEOWNERS by @maciektr in https://github.com/software-mansion/scarb/pull/1588\n* Print profile name in finished targets message by @maciektr in https://github.com/software-mansion/scarb/pull/1587\n* Add target-kinds filter argument to build by @maciektr in https://github.com/software-mansion/scarb/pull/1589\n* Feat: cairo-run extension: support --arguments-file optional parameter by @m-kus in https://github.com/software-mansion/scarb/pull/1591\n* Bump the non-critical group with 3 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1594\n* Bump dompurify from 3.0.5 to 3.1.6 in /website by @dependabot in https://github.com/software-mansion/scarb/pull/1595\n* Make paths displed on left nav bar if duplicated by @wawel37 in https://github.com/software-mansion/scarb/pull/1592\n* Fix single package features in a workspace by @maciektr in https://github.com/software-mansion/scarb/pull/1593\n* Bump vite from 5.2.12 to 5.4.6 in /website by @dependabot in https://github.com/software-mansion/scarb/pull/1602\n* Support more ModuleItems in proc macro attribute expansion by @maciektr in https://github.com/software-mansion/scarb/pull/1556\n* Adjust tests to new trait types and consts signatures by @wawel37 in https://github.com/software-mansion/scarb/pull/1600\n* Remove redundant call to DiagnosticsReporter::ensure by @maciektr in https://github.com/software-mansion/scarb/pull/1604\n* Compile contract artifacts in test targets by @maciektr in https://github.com/software-mansion/scarb/pull/1585\n* Bump thiserror from 1.0.63 to 1.0.64 in the non-critical group by @dependabot in https://github.com/software-mansion/scarb/pull/1607\n* Update docs by @maciektr in https://github.com/software-mansion/scarb/pull/1606\n* Only search build-external-contracts for contracts in test target compilation by @maciektr in https://github.com/software-mansion/scarb/pull/1612\n* Bump starknet-types-core from 0.1.5 to 0.1.6 by @dependabot in https://github.com/software-mansion/scarb/pull/1608\n* Bump rollup from 4.21.3 to 4.22.4 in /website by @dependabot in https://github.com/software-mansion/scarb/pull/1614\n\n## New Contributors\n* @m-kus made their first contribution in https://github.com/software-mansion/scarb/pull/1591\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.8.2...v2.8.3",
+      "downloadCount": 10796,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-09-26T10:33:57Z"
+    }
+  },
+  "2.8.4": {
+    "hashes": {
+      "aarch64-apple-darwin": "66bbffdab32eed24f7de47ea830d5010c01fc7da5daa46213adaa85bf95d82a5",
+      "aarch64-unknown-linux-gnu": "360c8934608d3e3970f626e77625ade8cbf8beb0bcdce235fa08aedb0ffa2714",
+      "aarch64-unknown-linux-musl": "25b6ca83de688487bfb6818ff5d6b7332dab545915d92dcdedc7af81210e20f1",
+      "x86_64-apple-darwin": "f1f1af58bcd86dac71da2aa9fb1a2d6d633ead9da5eec177a69107b2a544cfc6",
+      "x86_64-pc-windows-msvc": "39a7d2992080921aadbf8a18366ab2fdf01defdd8bfb6570bb92699fc2e22bb2",
+      "x86_64-unknown-linux-gnu": "19b6e70be85657bae5e4e0313af0ad06e87d4efe294d9d4dafd448e0383896a8",
+      "x86_64-unknown-linux-musl": "a0eb9053cbde54ce78f2ea6bb0d6621f6f7a8e3ff3c37db7e9674a79b5f3021a"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-10-07T16:48:29Z",
+          "download_count": 5,
+          "size": 767,
+          "updated_at": "2024-10-07T16:48:29Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/checksums.sha256"
+        },
+        "scarb-v2.8.4-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-10-07T16:48:29Z",
+          "download_count": 2448,
+          "size": 34241781,
+          "updated_at": "2024-10-07T16:48:30Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.4-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-10-07T16:48:29Z",
+          "download_count": 364,
+          "size": 38260298,
+          "updated_at": "2024-10-07T16:48:30Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.4-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-10-07T16:48:29Z",
+          "download_count": 181,
+          "size": 37461216,
+          "updated_at": "2024-10-07T16:48:30Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.8.4-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-10-07T16:48:29Z",
+          "download_count": 132,
+          "size": 37799470,
+          "updated_at": "2024-10-07T16:48:30Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.4-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-10-07T16:48:29Z",
+          "download_count": 204,
+          "size": 38493892,
+          "updated_at": "2024-10-07T16:48:30Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.8.4-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-10-07T16:48:30Z",
+          "download_count": 24352,
+          "size": 39860761,
+          "updated_at": "2024-10-07T16:48:32Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.4-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-10-07T16:48:31Z",
+          "download_count": 390,
+          "size": 40313053,
+          "updated_at": "2024-10-07T16:48:32Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.4/scarb-v2.8.4-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.8.4)\n\nWelcome to the release notes for Scarb `v2.8.4`!\n\nThe primary aim of this release is to bring Cairo compiler fix release.\n\n### New developments included\n* **`scarb fmt` for formatting path** - Scarb formatter can now accept paths to format. This can be useful when integrating with external tooling.\n* **`#[doc(hidden)]` support in Scarb Doc** - Since this release, you can hide docs for some parts of your codebase with `#[doc(hidden)]` attributes.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.8.4`](https://github.com/starkware-libs/cairo/releases/tag/v2.8.4).\n\n## What's Changed\n* Ignore items with #[doc(hidden)] by @wawel37 in https://github.com/software-mansion/scarb/pull/1597\n* Update snforge init test for foundry 0.31.0 by @maciektr in https://github.com/software-mansion/scarb/pull/1618\n* Bump the non-critical group with 4 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1621\n* Fix documentation typo by @wawel37 in https://github.com/software-mansion/scarb/pull/1624\n* feat: scarb fmt a subdirectory by @enitrat in https://github.com/software-mansion/scarb/pull/1626\n* Update scarb docs by @maciektr in https://github.com/software-mansion/scarb/pull/1630\n* Bump deno_task_shell from 0.18.0 to 0.18.1 by @dependabot in https://github.com/software-mansion/scarb/pull/1633\n* Bump once_cell from 1.20.0 to 1.20.2 in the non-critical group by @dependabot in https://github.com/software-mansion/scarb/pull/1632\n\n## New Contributors\n* @enitrat made their first contribution in https://github.com/software-mansion/scarb/pull/1626\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.8.3...v2.8.4",
+      "downloadCount": 28076,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-10-07T18:19:41Z"
+    }
+  },
+  "2.8.5": {
+    "hashes": {
+      "aarch64-apple-darwin": "d6008eb3851fe13c7829a0fa6d38a5f4779323b86c7875b90403068b0e449825",
+      "aarch64-unknown-linux-gnu": "d1bbc6a4b8b1c64fc021c58ea6b5168e1e2fb0a0223ea5e3f16c5aebea9764ba",
+      "aarch64-unknown-linux-musl": "a669e710aac3853ea28266ffd1497e9c37de5e68841f163dbf8d660dc8de3ef1",
+      "x86_64-apple-darwin": "b0a746159dcbac1c0651b2feedeaa88b63d043195f48cfe498a7667b91eea8f9",
+      "x86_64-pc-windows-msvc": "7e531fc72a5072b04ce10fb15bc657edf3268bd7236559e48a7759751c83402c",
+      "x86_64-unknown-linux-gnu": "73e145b3ba803a4fe3d7c21d2418b4fa50ab8b06bec629617fb86e01b6783e7b",
+      "x86_64-unknown-linux-musl": "20c48391163ecb9f3c67cffeacb70887b2c87af4de51c329ae1c79eb478699dc"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-11-18T22:00:23Z",
+          "download_count": 2,
+          "size": 767,
+          "updated_at": "2024-11-18T22:00:24Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/checksums.sha256"
+        },
+        "scarb-v2.8.5-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-11-18T22:00:23Z",
+          "download_count": 212,
+          "size": 34445468,
+          "updated_at": "2024-11-18T22:00:25Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.5-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-11-18T22:00:23Z",
+          "download_count": 40,
+          "size": 37408589,
+          "updated_at": "2024-11-18T22:00:25Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.5-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-11-18T22:00:23Z",
+          "download_count": 72,
+          "size": 36680852,
+          "updated_at": "2024-11-18T22:00:25Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.8.5-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-11-18T22:00:23Z",
+          "download_count": 47,
+          "size": 38095756,
+          "updated_at": "2024-11-18T22:00:25Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.8.5-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-11-18T22:00:24Z",
+          "download_count": 96,
+          "size": 38627907,
+          "updated_at": "2024-11-18T22:00:25Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.8.5-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-11-18T22:00:25Z",
+          "download_count": 3156,
+          "size": 39977368,
+          "updated_at": "2024-11-18T22:00:26Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.8.5-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-11-18T22:00:25Z",
+          "download_count": 104,
+          "size": 40461321,
+          "updated_at": "2024-11-18T22:00:26Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.8.5/scarb-v2.8.5-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.8.5)\n\nWelcome to the release notes for Scarb `v2.8.5`!\n\nThe primary aim of this release is to bring Cairo compiler fix release.\n\n### New developments included\n* **Support packaging cairo-plugins** - Scarb can now be called with `scarb package` and `scarb publish` on a package, that implements procedural macros.\n* **Support enabling features when compiling integration tests** - This release fixes a bug, because of which selected features have not been enabled on main package of integration tests.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.8.5`](https://github.com/starkware-libs/cairo/releases/tag/v2.8.5).\n\n## What's Changed\n* Support packaging cairo-plugins by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1605\n* Enable features for main package during integration tests compilation by @DelevoXDG  in https://github.com/software-mansion/scarb/pull/1646\n* Fix packaging plugins when --no-verify is passed by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1643\n* Doc fix - procedural macros by @wawel37 in https://github.com/software-mansion/scarb/pull/1651\n* Doc typo fix - Publishing to registry by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1654\n* Stop using process:exit for error code handling by @maciektr in https://github.com/software-mansion/scarb/pull/1652\n* Add CI to publish builtin plugins by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1648\n* Return ExitCode instead of process:exit() in extensions by @maciektr in https://github.com/software-mansion/scarb/pull/1667\n* Update mermaid dependency by @maciektr in https://github.com/software-mansion/scarb/pull/1671\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.8.4...v2.8.5",
+      "downloadCount": 3729,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-11-19T07:39:18Z"
+    }
+  },
+  "2.9.1": {
+    "hashes": {
+      "aarch64-apple-darwin": "7a45492aab87288f8e3773101ea1ad573f972d393e42cd8b54bb97e858eb5e64",
+      "aarch64-unknown-linux-gnu": "0bcbddc46a657a26a7f47b3e2a037eca708b1411ba073aed7cfb0e9616e8f90c",
+      "aarch64-unknown-linux-musl": "7f0e9e601b271481d56300a8be7e5cc59a26303b8419a9ea30425b7381ffb2df",
+      "x86_64-apple-darwin": "5e6c5b622f09a24bb12567b9adc7f81d5f7f2394657aa8c874e11d6a59bc1ff1",
+      "x86_64-pc-windows-msvc": "192ccde2e8dba1c2fca050e3ad6474ac55e9ced140dad122a98e3a0acab66084",
+      "x86_64-unknown-linux-gnu": "26ffe83d5292983ab3bdfed907d66d28719dd57949514ecdaec658a98ff41669",
+      "x86_64-unknown-linux-musl": "69c481d1c1dfea551724bf4c62fa9a44019db8adb5f7de1f1eea3b97deeaa2e4"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-11-29T19:11:04Z",
+          "download_count": 2,
+          "size": 767,
+          "updated_at": "2024-11-29T19:11:05Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/checksums.sha256"
+        },
+        "scarb-v2.9.1-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-11-29T19:11:04Z",
+          "download_count": 232,
+          "size": 31462054,
+          "updated_at": "2024-11-29T19:11:06Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.9.1-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-11-29T19:11:04Z",
+          "download_count": 30,
+          "size": 34202679,
+          "updated_at": "2024-11-29T19:11:06Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.9.1-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-11-29T19:11:04Z",
+          "download_count": 76,
+          "size": 33490334,
+          "updated_at": "2024-11-29T19:11:06Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.9.1-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-11-29T19:11:04Z",
+          "download_count": 42,
+          "size": 34982909,
+          "updated_at": "2024-11-29T19:11:06Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.9.1-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-11-29T19:11:05Z",
+          "download_count": 80,
+          "size": 35203089,
+          "updated_at": "2024-11-29T19:11:05Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.9.1-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-11-29T19:11:06Z",
+          "download_count": 4247,
+          "size": 36795329,
+          "updated_at": "2024-11-29T19:11:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.9.1-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-11-29T19:11:06Z",
+          "download_count": 109,
+          "size": 37218819,
+          "updated_at": "2024-11-29T19:11:07Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.1/scarb-v2.9.1-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.9.1)\n\nWelcome to the release notes for Scarb v2.9.1!\nThis release includes several new developments and fixes.\n\n* **Interface changes**\n    * **Allow ignoring Cairo version checks** - Version requirements defined in `cairo-version` fields in package manifests can be ignored with new `--ignore-cairo-version` flag.\n    * **Add redeposit gas flag** - Compiler config now includes `add_redeposit_gas` flag.\n\n* **Compilation model changes**\n    * **Component dependencies in Scarb metadata** - Scarb metadata includes information about dependencies of each component in a compilation unit.\n    * **Integration tests features** - Integration tests should be compiled with the same feature set, as the main package.\n    * **Disallow imports by target name in integration tests** - Integration tests cannot rely on test target name to reference self in imports and should use `use crate::(...)` instead.\n\n* **Warnings and diagnostics**\n    * **Edition unset warnings** - Warnings are emitted for all loaded packages with no edition set in package manifest.\n    * **Warnings from dependencies silenced when building tests** - Warnings originating in package dependencies are silenced when building package tests.\n\n* **Bug fixes**\n    * **Fix registry client cache file** - Simultaneous access to a registry client cache file could result in interrupted downloads due to a race condition, fixed with advisory lock.\n\n* **Procedural macros changes**\n    * **Packaging procedural macros** - Packages implementing procedural macros (with `[cairo-plugin]` target)\u00a0can now be packaged with `scarb package` and published with `scarb publish`.\n    * **Inline procedural macro arguments** - Inline procedural macros defined with Scarb do not get function name as part of the arguments token stream - only the associated arguments list (with delimiters).\n    * **Fix check command for procedural macros** - Scarb check now properly builds all procedural macros required by the package.\n\n* **New Scarb doc features**\n    * **Reexported modules documentation support** - Documentation generated with `scarb doc` now includes docs of modules reexported from the package.\n    * **Cross item linkeage support** - Generated project documentation now resolves item references with `[some::cairo::path]` syntax, as clickable links.\n    * **Struct members signature** - Documentation of structs, generated with `scarb doc` now includes struct's members signatures.\n    * **Diagnostics when generating documentation** - If generating documentation of a package fails due to invalid Cairo code, Scarb should exit gracefully while showing compiler diagnostics instead of panicking.\n    * **Hiding docs of impls of hidden traits** - Impls of traits hidden with `doc(hidden)` attributes are skipped when generating documentation with `scarb doc`.\n    * **Corelib documentation on Scarb website** - Cairo core library documentation is now automatically published on Scarb documentation website with every release.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.9.1`](https://github.com/starkware-libs/cairo/releases/tag/v2.9.1).\n\n## What's Changed\n* Test compilation diagnostics reporter by @maciektr in https://github.com/software-mansion/scarb/pull/1577\n* Dependencies crate settings by @wawel37 in https://github.com/software-mansion/scarb/pull/1616\n* Use compiler's paths directly / remove workaround code by @wawel37 in https://github.com/software-mansion/scarb/pull/1609\n* Doc/support reexported modules by @wawel37 in https://github.com/software-mansion/scarb/pull/1620\n* Cairo update by @maciektr in https://github.com/software-mansion/scarb/pull/1625\n* Add signature for struct's member by @wawel37 in https://github.com/software-mansion/scarb/pull/1601\n* Pass contract declarations to compile_test_prepared_db / Cairo update by @maciektr in https://github.com/software-mansion/scarb/pull/1636\n* Do not allow importing by test target name in integration tests by @maciektr in https://github.com/software-mansion/scarb/pull/1634\n* Update Cairo  by @maciektr in https://github.com/software-mansion/scarb/pull/1641\n* Bump the non-critical group with 4 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1645\n* Support packaging cairo-plugins by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1605\n* Add diagnostics and handle errors gracefully / Upgrade Cairo. by @wawel37 in https://github.com/software-mansion/scarb/pull/1590\n* Hide docs for impls of hidden traits / traits with hidden generic args.  by @maciektr in https://github.com/software-mansion/scarb/pull/1644\n* Enable features for main package during integration tests compilation by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1646\n* Add add_redeposit_gas to compiler config by @maciektr in https://github.com/software-mansion/scarb/pull/1650\n* Fix packaging plugins when `--no-verify` is passed by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1643\n* Doc fix - procedural macros by @wawel37 in https://github.com/software-mansion/scarb/pull/1651\n* Doc typo fix - Publishing to registry by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1654\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1664\n* Stop using process:exit for error code handling by @maciektr in https://github.com/software-mansion/scarb/pull/1652\n* Add CI to publish builtin plugins by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1648\n* Return ExitCode instead of process:exit() in extensions by @maciektr in https://github.com/software-mansion/scarb/pull/1667\n* Update mermaid dependency by @maciektr in https://github.com/software-mansion/scarb/pull/1671\n* Support UI verbosity in scarb-doc by @maciektr in https://github.com/software-mansion/scarb/pull/1668\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1672\n* Remove snforge-test-collector by @piotmag769 in https://github.com/software-mansion/scarb/pull/1675\n* Remove code mappings for attribute expand (temp) by @maciektr in https://github.com/software-mansion/scarb/pull/1657\n* Add `scarb-doc`-generated corelib docs to GitHub Pages by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1658\n* Add component dependencies to metadata by @piotmag769 in https://github.com/software-mansion/scarb/pull/1655\n* Add test for building corelib docs by @maciektr in https://github.com/software-mansion/scarb/pull/1687\n* Add warning on unset edition by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1663\n* Feat: Support --print-detailed-resources parameter in cairo-run by @maciejka in https://github.com/software-mansion/scarb/pull/1688\n* Fix tests for cairo-run args validation by @maciektr in https://github.com/software-mansion/scarb/pull/1691\n* Bump gix from 0.66.0 to 0.67.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1693\n* Bump the non-critical group with 9 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1692\n* Prepare `scarb-metadata` release `1.13.0` by @maciektr in https://github.com/software-mansion/scarb/pull/1694\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1711\n* Add advisory lock for registry cache db by @maciektr in https://github.com/software-mansion/scarb/pull/1712\n* Bump the non-critical group with 6 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1713\n* Cairo update by @maciektr in https://github.com/software-mansion/scarb/pull/1714\n* Add `--ignore-cairo-version` flag by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1666\n* Add derives to `cairo-lang-macro` by @Draggu in https://github.com/software-mansion/scarb/pull/1676\n* Proc macro server API by @Draggu in https://github.com/software-mansion/scarb/pull/1715\n* Add `proc-macro-server` command by @Draggu in https://github.com/software-mansion/scarb/pull/1679\n* Proc macro server: Load `ProcMacroHost` by @Draggu in https://github.com/software-mansion/scarb/pull/1680\n* Add Proc macro server by @Draggu in https://github.com/software-mansion/scarb/pull/1681\n* Add `RpcResponse` result helper by @Draggu in https://github.com/software-mansion/scarb/pull/1719\n* Add request handling by @Draggu in https://github.com/software-mansion/scarb/pull/1682\n* Add test helpers by @Draggu in https://github.com/software-mansion/scarb/pull/1718\n* Add `DefinedMacros` handler by @Draggu in https://github.com/software-mansion/scarb/pull/1683\n* Add `ExpandAttribute` handler by @Draggu in https://github.com/software-mansion/scarb/pull/1684\n* Add `ExpandDerive` handler by @Draggu in https://github.com/software-mansion/scarb/pull/1685\n* Add `ExpandInline` handler by @Draggu in https://github.com/software-mansion/scarb/pull/1686\n* Bump the non-critical group with 4 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1723\n* Add cairo-ls as code owners of proc-macro-server by @maciektr in https://github.com/software-mansion/scarb/pull/1730\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1739\n* Prepare `cairo-lang-macro` release `0.1.1` by @maciektr in https://github.com/software-mansion/scarb/pull/1740\n* Prepare `scarb-proc-macro-server-types` release `0.1.0`. by @maciektr in https://github.com/software-mansion/scarb/pull/1741\n* Website: Suggest asdf as the default installation method by @maciektr in https://github.com/software-mansion/scarb/pull/1744\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1752\n* Mute UI when reading ws for external command by @maciektr in https://github.com/software-mansion/scarb/pull/1755\n* Cairo update by @maciektr in https://github.com/software-mansion/scarb/pull/1754\n* Reword docs for manifest (slightly) by @maciektr in https://github.com/software-mansion/scarb/pull/1758\n* Scarb Doc: cross item linkage by @wawel37 in https://github.com/software-mansion/scarb/pull/1690\n* Bump gix from 0.67.0 to 0.68.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1765\n* Update dependencies  by @maciektr in https://github.com/software-mansion/scarb/pull/1772\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1778\n* Prioritize registry deps in the docs by @DelevoXDG in https://github.com/software-mansion/scarb/pull/1777\n* Fix check command for cairo compilation units dependant on Scarb proc macros by @maciektr in https://github.com/software-mansion/scarb/pull/1780\n* Fix clippy warnings after rust update by @maciektr in https://github.com/software-mansion/scarb/pull/1790\n* Update Cairo by @maciektr in https://github.com/software-mansion/scarb/pull/1784\n* Don't pass inline macro name to macro args token stream by @maciektr in https://github.com/software-mansion/scarb/pull/1786\n* Prepare release `2.9.1`  by @maciektr in https://github.com/software-mansion/scarb/pull/1791\n\n## New Contributors\n* @maciejka made their first contribution in https://github.com/software-mansion/scarb/pull/1688\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.8.0...v2.9.1",
+      "downloadCount": 4818,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-11-30T00:05:58Z"
+    }
+  },
+  "2.9.2": {
+    "hashes": {
+      "aarch64-apple-darwin": "8745bb457845de487a75fec9ef9c9cc67e6485eba98511b94702d119bdf354bc",
+      "aarch64-unknown-linux-gnu": "7c626ba1bc1dafdcfb1217625c83d36f716dc61f774d3a527975bdf26ad5881c",
+      "aarch64-unknown-linux-musl": "158a11484ecdbbfd0cb495fdc1a5a40c9d549782d016023a6e11a90885084a25",
+      "x86_64-apple-darwin": "9697be2d30614b37a59e407ae4c9f44badb6aa7bef34298eb3579a1f1a28c921",
+      "x86_64-pc-windows-msvc": "06f8cbcc5e42cf6197d0cb47ff499f4c85a03315e040b234281b13c82ef1e041",
+      "x86_64-unknown-linux-gnu": "0a123d6327c559dc8d395d51f6ce3de34122fa90838fd8919c219bb96f146de3",
+      "x86_64-unknown-linux-musl": "69fafe8f250ce06299efd91c378877f434b8285df622dfaba04e854326b85b65"
+    },
+    "metadata": {
+      "assets": {
+        "checksums.sha256": {
+          "created_at": "2024-12-11T22:32:47Z",
+          "download_count": 2,
+          "size": 767,
+          "updated_at": "2024-12-11T22:32:47Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/checksums.sha256"
+        },
+        "scarb-v2.9.2-aarch64-apple-darwin.tar.gz": {
+          "created_at": "2024-12-11T22:32:47Z",
+          "download_count": 583,
+          "size": 31324923,
+          "updated_at": "2024-12-11T22:32:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-aarch64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.9.2-aarch64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-12-11T22:32:47Z",
+          "download_count": 62,
+          "size": 34089166,
+          "updated_at": "2024-12-11T22:32:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-aarch64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.9.2-aarch64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-12-11T22:32:47Z",
+          "download_count": 3,
+          "size": 33353074,
+          "updated_at": "2024-12-11T22:32:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-aarch64-unknown-linux-musl.tar.gz"
+        },
+        "scarb-v2.9.2-x86_64-apple-darwin.tar.gz": {
+          "created_at": "2024-12-11T22:32:47Z",
+          "download_count": 39,
+          "size": 34915821,
+          "updated_at": "2024-12-11T22:32:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-x86_64-apple-darwin.tar.gz"
+        },
+        "scarb-v2.9.2-x86_64-pc-windows-msvc.zip": {
+          "created_at": "2024-12-11T22:32:47Z",
+          "download_count": 71,
+          "size": 35115700,
+          "updated_at": "2024-12-11T22:32:48Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-x86_64-pc-windows-msvc.zip"
+        },
+        "scarb-v2.9.2-x86_64-unknown-linux-gnu.tar.gz": {
+          "created_at": "2024-12-11T22:32:48Z",
+          "download_count": 7222,
+          "size": 36793491,
+          "updated_at": "2024-12-11T22:32:49Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-x86_64-unknown-linux-gnu.tar.gz"
+        },
+        "scarb-v2.9.2-x86_64-unknown-linux-musl.tar.gz": {
+          "created_at": "2024-12-11T22:32:48Z",
+          "download_count": 30,
+          "size": 37182685,
+          "updated_at": "2024-12-11T22:32:49Z",
+          "url": "https://github.com/software-mansion/scarb/releases/download/v2.9.2/scarb-v2.9.2-x86_64-unknown-linux-musl.tar.gz"
+        }
+      },
+      "changelog": "[Cairo release notes \u27a1\ufe0f](https://github.com/starkware-libs/cairo/releases/tag/v2.9.2)\n\nWelcome to the release notes for Scarb `v2.9.2`!\n\nThis release is primarily a Cairo update.\n\n### New developments included\n* **Fix displaying labels of linked items in doc** - Since this release, both `[label](path)` and `[path]` format of cross item links can be used in Scarb doc.\n* **Fix component dependencies resolution** - Fix an edge case where some transient dev dependencies has been included in some component dependencies unnecessarily.\n\n## Cairo Version\n\nThis version of Scarb comes with Cairo [`v2.9.2`](https://github.com/starkware-libs/cairo/releases/tag/v2.9.2).\n\n## What's Changed\n* Explicitly set rust-version for cairo-lang-macro crate by @maciektr in https://github.com/software-mansion/scarb/pull/1787\n* fix: bump bytes to 1.9.0 by @chenrui333 in https://github.com/software-mansion/scarb/pull/1792\n* Bump the non-critical group with 6 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1798\n* Bump deno_task_shell from 0.18.1 to 0.20.2 by @maciektr in https://github.com/software-mansion/scarb/pull/1800\n* Bump slackapi/slack-github-action from 1.27.0 to 2.0.0 by @dependabot in https://github.com/software-mansion/scarb/pull/1794\n* Fix label displaying in case 2 part linakge in scarb doc by @wawel37 in https://github.com/software-mansion/scarb/pull/1803\n* Add linkage docs to scarb doc by @wawel37 in https://github.com/software-mansion/scarb/pull/1802\n* Use new ls package by @wawel37 in https://github.com/software-mansion/scarb/pull/1804\n* Disable caching for setup-scarb in Scarb CI by @maciektr in https://github.com/software-mansion/scarb/pull/1807\n* Update README by @maciektr in https://github.com/software-mansion/scarb/pull/1816\n* Bump the non-critical group with 7 updates by @dependabot in https://github.com/software-mansion/scarb/pull/1819\n* Make unstable* flags warning more explicit by @maciektr in https://github.com/software-mansion/scarb/pull/1822\n* Use patch-based Cairo dependencies specification by @mkaput in https://github.com/software-mansion/scarb/pull/1818\n* Bump nanoid from 3.3.7 to 3.3.8 in /website by @dependabot in https://github.com/software-mansion/scarb/pull/1837\n* Refactor: pull CU dependencies directly from dependency graph by @maciektr in https://github.com/software-mansion/scarb/pull/1820\n\n## New Contributors\n* @chenrui333 made their first contribution in https://github.com/software-mansion/scarb/pull/1792\n\n**Full Changelog**: https://github.com/software-mansion/scarb/compare/v2.9.1...v2.9.2",
+      "downloadCount": 8012,
+      "draft": false,
+      "prerelease": false,
+      "releaseDate": "2024-12-11T22:57:11Z"
+    }
+  }
+}
